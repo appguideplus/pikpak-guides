@@ -1,5 +1,9 @@
 # How to use PikPak — Save, organize, play and download files
 
+PikPak invitation code: **79099748** · [Where to enter it and check free Premium benefits](https://appguideplus.com/en/pikpak-free-premium/)
+
+Referral disclosure: the operator earns commissions on qualifying referrals through this code.
+
 [한국어](README.ko.md) · [English](README.en.md) · [日本語](README.ja.md) · [简体中文](README.zh-hans.md) · [繁體中文（台灣）](README.zh-hant.md) · [繁體中文（香港）](README.zh-hk.md)
 
 | Task | Web action |
@@ -57,4 +61,4 @@ Invitation codes concern new-user Premium benefits. Referral Pro is the cash-rew
 - [PikPak invitation code and free Premium](https://appguideplus.com/en/pikpak-free-premium/)
 - [PikPak Referral Pro: rewards and withdrawals](https://appguideplus.com/en/pikpak-referral-pro/)
 
-AppGuide+ is an independent guide site. The linked benefit and referral pages contain referral links; the operator earns commissions on qualifying referrals.
+AppGuide+ is an independent guide site.

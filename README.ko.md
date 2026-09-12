@@ -1,5 +1,9 @@
 # 픽팍(PikPak) 사용법 — 파일 저장부터 재생·다운로드까지
 
+픽팍 초대코드: **79099748** · [입력 방법과 무료 프리미엄 혜택 확인](https://appguideplus.com/ko/pikpak-free-premium/)
+
+제휴 안내: 이 코드를 통한 추천 실적에 따라 운영자가 수수료를 받습니다.
+
 [한국어](README.ko.md) · [English](README.en.md) · [日本語](README.ja.md) · [简体中文](README.zh-hans.md) · [繁體中文（台灣）](README.zh-hant.md) · [繁體中文（香港）](README.zh-hk.md)
 
 | 하려는 작업 | 웹 메뉴 |
@@ -57,4 +61,4 @@
 - [픽팍 초대코드·무료 프리미엄 받는 방법](https://appguideplus.com/ko/pikpak-free-premium/)
 - [픽팍 Referral Pro 수익·출금 안내](https://appguideplus.com/ko/pikpak-referral-pro/)
 
-앱가이드+는 독립 가이드 사이트입니다. 연결된 혜택·추천 안내 페이지에는 제휴 링크가 있으며, 추천 실적에 따라 운영자가 수수료를 받습니다.
+앱가이드+는 독립 가이드 사이트입니다.

@@ -1,5 +1,9 @@
 # PikPak（ピックパック）の使い方 — 保存・整理・再生・ダウンロード
 
+PikPak招待コード: **79099748** · [入力方法と無料プレミアム特典を確認](https://appguideplus.com/ja/pikpak-free-premium/)
+
+紹介報酬について：このコードによる紹介実績に応じて、運営者に報酬が支払われます。
+
 [한국어](README.ko.md) · [English](README.en.md) · [日本語](README.ja.md) · [简体中文](README.zh-hans.md) · [繁體中文（台灣）](README.zh-hant.md) · [繁體中文（香港）](README.zh-hk.md)
 
 | やりたいこと | Web版の操作 |
@@ -57,4 +61,4 @@ Web版とアプリのアカウントが同じか、保存タスクが完了し�
 - [PikPak招待コード・無料プレミアムの受け取り方](https://appguideplus.com/ja/pikpak-free-premium/)
 - [PikPak Referral Proの報酬・出金ガイド](https://appguideplus.com/ja/pikpak-referral-pro/)
 
-AppGuide+は独立したガイドサイトです。リンク先の特典・紹介プログラムのページには紹介リンクが含まれ、紹介実績に応じて運営者に報酬が支払われます。
+AppGuide+は独立したガイドサイトです。

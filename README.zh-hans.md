@@ -1,5 +1,9 @@
 # PikPak 网盘使用指南 — 保存、整理、播放与下载
 
+PikPak 邀请码： **79099748** · [查看输入方法与免费高级会员福利](https://appguideplus.com/zh-hans/pikpak-free-premium/)
+
+推广说明：通过此邀请码产生符合条件的推荐时，运营者会获得佣金。
+
 [한국어](README.ko.md) · [English](README.en.md) · [日本語](README.ja.md) · [简体中文](README.zh-hans.md) · [繁體中文（台灣）](README.zh-hant.md) · [繁體中文（香港）](README.zh-hk.md)
 
 | 操作 | 网页菜单 |
@@ -57,4 +61,4 @@
 - [PikPak 邀请码与免费高级会员领取指南](https://appguideplus.com/zh-hans/pikpak-free-premium/)
 - [PikPak Referral Pro 收益与提现指南](https://appguideplus.com/zh-hans/pikpak-referral-pro/)
 
-AppGuide+ 是独立指南网站。链接的福利和推荐计划页面包含推广链接，运营者会按符合条件的推荐获得佣金。
+AppGuide+ 是独立指南网站。

@@ -1,5 +1,9 @@
 # PikPak 使用教學 — 儲存、整理、播放與下載
 
+PikPak 邀請碼： **79099748** · [查看輸入方式與免費進階會員優惠](https://appguideplus.com/zh-hant/pikpak-free-premium/)
+
+推廣說明：透過此邀請碼完成符合條件的推薦時，營運者會獲得佣金。
+
 [한국어](README.ko.md) · [English](README.en.md) · [日本語](README.ja.md) · [简体中文](README.zh-hans.md) · [繁體中文（台灣）](README.zh-hant.md) · [繁體中文（香港）](README.zh-hk.md)
 
 | 操作 | 網頁選單 |
@@ -57,4 +61,4 @@
 - [PikPak 邀請碼與免費進階會員領取教學](https://appguideplus.com/zh-hant/pikpak-free-premium/)
 - [PikPak Referral Pro 收益與提領教學](https://appguideplus.com/zh-hant/pikpak-referral-pro/)
 
-AppGuide+ 是獨立指南網站。連結的優惠及推薦計畫頁面包含推廣連結，營運者會依符合條件的推薦獲得佣金。
+AppGuide+ 是獨立指南網站。

@@ -27,6 +27,70 @@ PikPak 邀請碼： **79099748** · [查看輸入方法與免費高級會員優�
 
 網頁版不能下載整個資料夾。請逐一下載當中的檔案，或使用 PikPak 桌面應用程式。
 
+### 上傳裝置中的檔案
+
+開啟頂部的 Upload，選擇 Upload Files，再選取檔案。上傳資料夾時使用 Upload Folder。完成後在檔案清單確認結果。
+
+網頁版可在檔案上按滑鼠右鍵開啟操作選單。Move 是移動，Rename 是重新命名，Download to Device 是下載到裝置。
+
+## 1. 把檔案儲存到 PikPak
+
+先用自己製作或有權使用的檔案試一次。
+
+1. 登入 PikPak 網頁版。如要在應用程式查看，請使用同一帳戶。
+2. 新增磁力連結或種子檔案時，開啟雲端下載（Cloud Download），貼上連結或選取種子檔案。
+3. 選擇 Create Now 開始任務並確認完成，再到檔案清單找出已儲存的檔案。
+
+雲端儲存完成前，檔案可能仍未能播放或下載。
+
+![雲端下載：新增連結或種子檔案](https://appguideplus.com/assets/pikpak-cloud-download.png)
+
+[官方連結儲存說明](https://mypikpak.com/en-US/help-center/beginner_tutorial/save_content/margnet_link)
+
+## 2. 用資料夾整理
+
+檔案未累積太多時先分類，日後更容易查找。
+
+1. 選擇檔案清單上方的 Create Folder，輸入容易辨認的名稱，例如「旅行影片」。
+2. 選取要整理的檔案，開啟檔案選單中的移動功能。
+3. 選擇目標資料夾並完成移動，再開啟資料夾確認結果。
+4. 需要修改檔案名稱時，使用重新命名功能，保留原有副檔名。
+
+移到資料夾和移到垃圾桶是不同操作。請確認所選操作及目標位置。
+
+![新增資料夾：輸入名稱後選擇 Create](https://appguideplus.com/assets/pikpak-create-folder.png)
+
+## 3. 播放已儲存的影片
+
+雲端儲存完成後，開啟影片檔案。
+
+1. 從檔案清單或資料夾開啟影片。
+2. 確認畫面和聲音，按需要使用播放器提供的畫質或字幕設定。
+3. 網頁版播放失敗時，可用同一帳戶在 PikPak 應用程式內嘗試。Android 的支援影片選單亦可使用其他已安裝的播放器。
+
+播放相容性取決於檔案格式、音訊編碼及瀏覽器。同一檔案在不同裝置上的表現可能不同。
+
+[官方影片播放說明](https://mypikpak.com/en-US/help-center/play_and_download/playback)
+
+## 4. 下載到手機或電腦
+
+想離線使用檔案，先把檔案下載到裝置。
+
+1. 網頁版在檔案上按滑鼠右鍵，選擇 Download to Device。應用程式內則開啟檔案的下載功能。
+2. 開始下載後查看進度，直至完成。網頁版亦可查看瀏覽器的下載清單。
+3. 開啟下載檔案的儲存位置，查看瀏覽器或應用程式設定的下載資料夾。
+4. 直接開啟檔案，確認下載結果可以正常使用。
+
+應用程式內離線儲存和匯出至系統「相片」「檔案」可能是不同功能。如要在其他應用程式使用，請確認儲存位置或匯出選項。
+
+![檔案選單：播放、下載及移動](https://appguideplus.com/assets/pikpak-file-menu.png)
+
+網頁版不能下載整個資料夾。請逐一下載當中的檔案，或使用 PikPak 桌面應用程式。
+
+[官方資料夾下載說明](https://mypikpak.com/en-US/help-center/play_and_download/failure/web)
+
+選單名稱可能因顯示語言及應用程式版本而不同。
+
 ## 遇到問題時先檢查
 
 ### 應用程式內找不到檔案
@@ -62,3 +126,7 @@ PikPak 邀請碼： **79099748** · [查看輸入方法與免費高級會員優�
 - [PikPak Referral Pro 收益與提款指南](https://appguideplus.com/zh-hk/pikpak-referral-pro/)
 
 AppGuide+ 是獨立指南網站。
+
+內容核對及 GitHub 版編輯：2026-09-14。最新選單與適用條件請以官方說明及帳戶頁面為準。
+
+[AppGuide+ · 전체 앱 가이드 / All app guides](README.md)

@@ -1,6 +1,6 @@
 # PikPak 网盘使用指南 — 保存、整理、播放与下载
 
-PikPak 邀请码： **79099748** · [查看输入方法与免费高级会员福利](https://appguideplus.com/zh-hans/pikpak-free-premium/)
+PikPak 邀请码： **79099748** · [查看输入方法与免费高级会员福利](https://appguideplus.com/zh-hans/pikpak-free-premium/?utm_source=github)
 
 推广说明：通过此邀请码产生符合条件的推荐时，运营者会获得佣金。
 
@@ -43,7 +43,7 @@ PikPak 邀请码： **79099748** · [查看输入方法与免费高级会员福�
 
 云端保存完成前，文件可能还不能播放或下载。
 
-![云下载：添加链接或种子文件](https://appguideplus.com/assets/pikpak-cloud-download.png)
+![云下载：添加链接或种子文件](https://appguideplus.com/assets/pikpak-cloud-download.png?utm_source=github)
 
 [官方链接保存帮助](https://mypikpak.com/en-US/help-center/beginner_tutorial/save_content/margnet_link)
 
@@ -58,7 +58,7 @@ PikPak 邀请码： **79099748** · [查看输入方法与免费高级会员福�
 
 移到文件夹和移到回收站是不同操作，请确认选中的操作及目标位置。
 
-![新建文件夹：输入名称后选择 Create](https://appguideplus.com/assets/pikpak-create-folder.png)
+![新建文件夹：输入名称后选择 Create](https://appguideplus.com/assets/pikpak-create-folder.png?utm_source=github)
 
 ## 3. 播放已保存的视频
 
@@ -83,7 +83,7 @@ PikPak 邀请码： **79099748** · [查看输入方法与免费高级会员福�
 
 应用内离线保存和导出到系统“照片”“文件”可能是不同功能。需要在其他应用中使用时，请确认保存位置或导出选项。
 
-![文件菜单：播放、下载与移动](https://appguideplus.com/assets/pikpak-file-menu.png)
+![文件菜单：播放、下载与移动](https://appguideplus.com/assets/pikpak-file-menu.png?utm_source=github)
 
 网页版不能下载整个文件夹。请逐个下载其中的文件，或使用 PikPak 桌面应用。
 
@@ -109,7 +109,7 @@ PikPak 邀请码： **79099748** · [查看输入方法与免费高级会员福�
 
 从浏览器下载记录或 PikPak 下载列表打开保存位置。手机上的下载文件不一定自动出现在相册中。
 
-[查看带截图的完整指南](https://appguideplus.com/zh-hans/pikpak-guide/)
+[查看带截图的完整指南](https://appguideplus.com/zh-hans/pikpak-guide/?utm_source=github)
 
 ## PikPak 官方帮助中心
 
@@ -122,8 +122,8 @@ PikPak 邀请码： **79099748** · [查看输入方法与免费高级会员福�
 
 邀请码用于新用户的高级会员福利；Referral Pro 是面向 PikPak 推荐者的现金奖励计划。
 
-- [PikPak 邀请码与免费高级会员领取指南](https://appguideplus.com/zh-hans/pikpak-free-premium/)
-- [PikPak Referral Pro 收益与提现指南](https://appguideplus.com/zh-hans/pikpak-referral-pro/)
+- [PikPak 邀请码与免费高级会员领取指南](https://appguideplus.com/zh-hans/pikpak-free-premium/?utm_source=github)
+- [PikPak Referral Pro 收益与提现指南](https://appguideplus.com/zh-hans/pikpak-referral-pro/?utm_source=github)
 
 AppGuide+ 是独立指南网站。
 

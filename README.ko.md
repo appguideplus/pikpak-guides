@@ -1,6 +1,6 @@
 # 픽팍(PikPak) 사용법 — 파일 저장부터 재생·다운로드까지
 
-픽팍 초대코드: **79099748** · [입력 방법과 무료 프리미엄 혜택 확인](https://appguideplus.com/ko/pikpak-free-premium/)
+픽팍 초대코드: **79099748** · [입력 방법과 무료 프리미엄 혜택 확인](https://appguideplus.com/ko/pikpak-free-premium/?utm_source=github)
 
 제휴 안내: 이 코드를 통한 추천 실적에 따라 운영자가 수수료를 받습니다.
 
@@ -43,7 +43,7 @@
 
 클라우드 저장이 끝나기 전에는 파일이 바로 재생되거나 내려받아지지 않을 수 있습니다.
 
-![클라우드 다운로드: 링크나 토렌트 파일을 추가하는 메뉴](https://appguideplus.com/assets/pikpak-cloud-download.png)
+![클라우드 다운로드: 링크나 토렌트 파일을 추가하는 메뉴](https://appguideplus.com/assets/pikpak-cloud-download.png?utm_source=github)
 
 [공식 링크 저장 도움말](https://mypikpak.com/en-US/help-center/beginner_tutorial/save_content/margnet_link)
 
@@ -58,7 +58,7 @@
 
 폴더 안으로 이동하는 것과 휴지통으로 보내는 것은 다릅니다. 선택한 동작과 대상 폴더를 확인하세요.
 
-![새 폴더 만들기: 이름을 입력하고 Create 선택](https://appguideplus.com/assets/pikpak-create-folder.png)
+![새 폴더 만들기: 이름을 입력하고 Create 선택](https://appguideplus.com/assets/pikpak-create-folder.png?utm_source=github)
 
 ## 3. 저장한 영상 재생하기
 
@@ -83,7 +83,7 @@
 
 앱의 오프라인 저장과 사진·파일 앱으로 내보내기는 서로 다른 기능일 수 있습니다. 다른 앱에서 사용할 파일이라면 저장 위치와 내보내기 메뉴를 확인하세요.
 
-![파일 메뉴: 재생·다운로드·이동 기능 확인](https://appguideplus.com/assets/pikpak-file-menu.png)
+![파일 메뉴: 재생·다운로드·이동 기능 확인](https://appguideplus.com/assets/pikpak-file-menu.png?utm_source=github)
 
 웹에서 폴더 전체를 다운로드할 수는 없습니다. 안의 파일을 개별로 내려받거나 PikPak 데스크톱 앱을 사용하세요.
 
@@ -109,7 +109,7 @@
 
 브라우저 다운로드 기록이나 PikPak 앱의 다운로드 목록에서 저장 위치를 확인하세요. 휴대폰의 사진 앱에 자동으로 나타난다고 가정하지 마세요.
 
-[화면과 함께 보는 전체 사용법](https://appguideplus.com/ko/pikpak-guide/)
+[화면과 함께 보는 전체 사용법](https://appguideplus.com/ko/pikpak-guide/?utm_source=github)
 
 ## PikPak 공식 도움말
 
@@ -122,8 +122,8 @@
 
 초대코드는 신규 가입자의 프리미엄 혜택에, Referral Pro는 PikPak을 추천하는 사람의 현금 보상에 관한 안내입니다.
 
-- [픽팍 초대코드·무료 프리미엄 받는 방법](https://appguideplus.com/ko/pikpak-free-premium/)
-- [픽팍 Referral Pro 수익·출금 안내](https://appguideplus.com/ko/pikpak-referral-pro/)
+- [픽팍 초대코드·무료 프리미엄 받는 방법](https://appguideplus.com/ko/pikpak-free-premium/?utm_source=github)
+- [픽팍 Referral Pro 수익·출금 안내](https://appguideplus.com/ko/pikpak-referral-pro/?utm_source=github)
 
 앱가이드+는 독립 가이드 사이트입니다.
 

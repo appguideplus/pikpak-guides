@@ -1,6 +1,6 @@
 # PikPak（ピックパック）の使い方 — 保存・整理・再生・ダウンロード
 
-PikPak招待コード: **79099748** · [入力方法と無料プレミアム特典を確認](https://appguideplus.com/ja/pikpak-free-premium/)
+PikPak招待コード: **79099748** · [入力方法と無料プレミアム特典を確認](https://appguideplus.com/ja/pikpak-free-premium/?utm_source=github)
 
 紹介報酬について：このコードによる紹介実績に応じて、運営者に報酬が支払われます。
 
@@ -43,7 +43,7 @@ Web版ではファイルを右クリックして操作メニューを開けま�
 
 クラウドへの保存が終わるまでは、再生やダウンロードができない場合があります。
 
-![Cloud Download：リンクやトレントファイルの追加](https://appguideplus.com/assets/pikpak-cloud-download.png)
+![Cloud Download：リンクやトレントファイルの追加](https://appguideplus.com/assets/pikpak-cloud-download.png?utm_source=github)
 
 [リンク保存の公式ヘルプ](https://mypikpak.com/en-US/help-center/beginner_tutorial/save_content/margnet_link)
 
@@ -58,7 +58,7 @@ Web版ではファイルを右クリックして操作メニューを開けま�
 
 フォルダへの移動と、ゴミ箱への移動は別の操作です。選択した操作と移動先を確認してください。
 
-![フォルダ名を入力して「Create」を選択](https://appguideplus.com/assets/pikpak-create-folder.png)
+![フォルダ名を入力して「Create」を選択](https://appguideplus.com/assets/pikpak-create-folder.png?utm_source=github)
 
 ## 3. 保存した動画を再生する
 
@@ -83,7 +83,7 @@ Web版ではファイルを右クリックして操作メニューを開けま�
 
 アプリ内のオフライン保存と、「写真」「ファイル」への書き出しは異なる場合があります。別のアプリで使う場合は保存先や書き出し操作を確認してください。
 
-![ファイルメニュー：再生・ダウンロード・移動](https://appguideplus.com/assets/pikpak-file-menu.png)
+![ファイルメニュー：再生・ダウンロード・移動](https://appguideplus.com/assets/pikpak-file-menu.png?utm_source=github)
 
 Web版ではフォルダ全体をダウンロードできません。中のファイルを個別に保存するか、PikPakのデスクトップアプリを使ってください。
 
@@ -109,7 +109,7 @@ Web版とアプリのアカウントが同じか、保存タスクが完了し�
 
 ブラウザーの履歴やPikPakのダウンロード一覧から保存先を確認してください。スマートフォンの写真アプリに自動表示されるとは限りません。
 
-[画面付きの使い方ガイド](https://appguideplus.com/ja/pikpak-guide/)
+[画面付きの使い方ガイド](https://appguideplus.com/ja/pikpak-guide/?utm_source=github)
 
 ## PikPak公式ヘルプ
 
@@ -122,8 +122,8 @@ Web版とアプリのアカウントが同じか、保存タスクが完了し�
 
 招待コードは新規登録者向けのプレミアム特典、Referral ProはPikPakを紹介する人向けの現金報酬プログラムです。
 
-- [PikPak招待コード・無料プレミアムの受け取り方](https://appguideplus.com/ja/pikpak-free-premium/)
-- [PikPak Referral Proの報酬・出金ガイド](https://appguideplus.com/ja/pikpak-referral-pro/)
+- [PikPak招待コード・無料プレミアムの受け取り方](https://appguideplus.com/ja/pikpak-free-premium/?utm_source=github)
+- [PikPak Referral Proの報酬・出金ガイド](https://appguideplus.com/ja/pikpak-referral-pro/?utm_source=github)
 
 AppGuide+は独立したガイドサイトです。
 

@@ -1,6 +1,6 @@
 # How to use PikPak — Save, organize, play and download files
 
-PikPak invitation code: **79099748** · [Where to enter it and check free Premium benefits](https://appguideplus.com/en/pikpak-free-premium/)
+PikPak invitation code: **79099748** · [Where to enter it and check free Premium benefits](https://appguideplus.com/en/pikpak-free-premium/?utm_source=github)
 
 Referral disclosure: the operator earns commissions on qualifying referrals through this code.
 
@@ -43,7 +43,7 @@ Start with a file you created or have permission to use.
 
 A file may not be ready to play or download until the cloud task has finished.
 
-![Cloud Download: add a link or torrent file](https://appguideplus.com/assets/pikpak-cloud-download.png)
+![Cloud Download: add a link or torrent file](https://appguideplus.com/assets/pikpak-cloud-download.png?utm_source=github)
 
 [Official help: saving links](https://mypikpak.com/en-US/help-center/beginner_tutorial/save_content/margnet_link)
 
@@ -58,7 +58,7 @@ Give folders clear names before your file list gets busy.
 
 Moving a file into a folder is different from moving it to Trash. Check the selected action and destination.
 
-![Create Folder: enter a name and choose Create](https://appguideplus.com/assets/pikpak-create-folder.png)
+![Create Folder: enter a name and choose Create](https://appguideplus.com/assets/pikpak-create-folder.png?utm_source=github)
 
 ## 3. Play a saved video
 
@@ -83,7 +83,7 @@ Download a local copy when you want to use a file without an internet connection
 
 Offline storage inside an app can differ from exporting to your device’s Photos or Files app. Check the location or export option if you need the file in another app.
 
-![File actions: playback, download and move](https://appguideplus.com/assets/pikpak-file-menu.png)
+![File actions: playback, download and move](https://appguideplus.com/assets/pikpak-file-menu.png?utm_source=github)
 
 The web version cannot download a whole folder. Download its files individually or use a PikPak desktop app.
 
@@ -109,7 +109,7 @@ Cloud saving and downloading to your device are separate transfers. Check your c
 
 Open its location from the browser’s download history or PikPak’s download list. A phone download does not necessarily appear in Photos.
 
-[Full illustrated guide](https://appguideplus.com/en/pikpak-guide/)
+[Full illustrated guide](https://appguideplus.com/en/pikpak-guide/?utm_source=github)
 
 ## PikPak official Help Center
 
@@ -122,8 +122,8 @@ Open its location from the browser’s download history or PikPak’s download l
 
 Invitation codes concern new-user Premium benefits. Referral Pro is the cash-reward program for people who recommend PikPak.
 
-- [PikPak invitation code and free Premium](https://appguideplus.com/en/pikpak-free-premium/)
-- [PikPak Referral Pro: rewards and withdrawals](https://appguideplus.com/en/pikpak-referral-pro/)
+- [PikPak invitation code and free Premium](https://appguideplus.com/en/pikpak-free-premium/?utm_source=github)
+- [PikPak Referral Pro: rewards and withdrawals](https://appguideplus.com/en/pikpak-referral-pro/?utm_source=github)
 
 AppGuide+ is an independent guide site.
 

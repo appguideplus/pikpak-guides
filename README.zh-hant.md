@@ -1,6 +1,6 @@
 # PikPak 使用教學 — 儲存、整理、播放與下載
 
-PikPak 邀請碼： **79099748** · [查看輸入方式與免費進階會員優惠](https://appguideplus.com/zh-hant/pikpak-free-premium/)
+PikPak 邀請碼： **79099748** · [查看輸入方式與免費進階會員優惠](https://appguideplus.com/zh-hant/pikpak-free-premium/?utm_source=github)
 
 推廣說明：透過此邀請碼完成符合條件的推薦時，營運者會獲得佣金。
 
@@ -43,7 +43,7 @@ PikPak 邀請碼： **79099748** · [查看輸入方式與免費進階會員優�
 
 雲端儲存完成前，檔案可能還無法播放或下載。
 
-![雲端下載：新增連結或種子檔案](https://appguideplus.com/assets/pikpak-cloud-download.png)
+![雲端下載：新增連結或種子檔案](https://appguideplus.com/assets/pikpak-cloud-download.png?utm_source=github)
 
 [官方連結儲存說明](https://mypikpak.com/en-US/help-center/beginner_tutorial/save_content/margnet_link)
 
@@ -58,7 +58,7 @@ PikPak 邀請碼： **79099748** · [查看輸入方式與免費進階會員優�
 
 移到資料夾與移到垃圾桶是不同操作。請確認所選操作及目標位置。
 
-![新增資料夾：輸入名稱後選擇 Create](https://appguideplus.com/assets/pikpak-create-folder.png)
+![新增資料夾：輸入名稱後選擇 Create](https://appguideplus.com/assets/pikpak-create-folder.png?utm_source=github)
 
 ## 3. 播放已儲存的影片
 
@@ -83,7 +83,7 @@ PikPak 邀請碼： **79099748** · [查看輸入方式與免費進階會員優�
 
 App 內離線儲存與匯出到系統「照片」「檔案」可能是不同功能。若要在其他 App 中使用，請確認儲存位置或匯出選項。
 
-![檔案選單：播放、下載與移動](https://appguideplus.com/assets/pikpak-file-menu.png)
+![檔案選單：播放、下載與移動](https://appguideplus.com/assets/pikpak-file-menu.png?utm_source=github)
 
 網頁版無法下載整個資料夾。請逐一下載其中的檔案，或使用 PikPak 桌面版 App。
 
@@ -109,7 +109,7 @@ App 內離線儲存與匯出到系統「照片」「檔案」可能是不同功�
 
 從瀏覽器下載紀錄或 PikPak 下載清單開啟儲存位置。手機下載的檔案不一定自動出現在照片 App 中。
 
-[查看附畫面的完整教學](https://appguideplus.com/zh-hant/pikpak-guide/)
+[查看附畫面的完整教學](https://appguideplus.com/zh-hant/pikpak-guide/?utm_source=github)
 
 ## PikPak 官方說明中心
 
@@ -122,8 +122,8 @@ App 內離線儲存與匯出到系統「照片」「檔案」可能是不同功�
 
 邀請碼提供新用戶的進階會員優惠；Referral Pro 則是提供給 PikPak 推薦者的現金獎勵計畫。
 
-- [PikPak 邀請碼與免費進階會員領取教學](https://appguideplus.com/zh-hant/pikpak-free-premium/)
-- [PikPak Referral Pro 收益與提領教學](https://appguideplus.com/zh-hant/pikpak-referral-pro/)
+- [PikPak 邀請碼與免費進階會員領取教學](https://appguideplus.com/zh-hant/pikpak-free-premium/?utm_source=github)
+- [PikPak Referral Pro 收益與提領教學](https://appguideplus.com/zh-hant/pikpak-referral-pro/?utm_source=github)
 
 AppGuide+ 是獨立指南網站。
 

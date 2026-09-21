@@ -2,7 +2,7 @@
 
 <a id="pikpak-guides-by-appguide"></a>
 
-픽팍 초대코드 / PikPak invitation code: **79099748** · [입력 방법과 무료 프리미엄 혜택](https://appguideplus.com/ko/pikpak-free-premium/)
+픽팍 초대코드 / PikPak invitation code: **79099748** · [입력 방법과 무료 프리미엄 혜택](https://appguideplus.com/ko/pikpak-free-premium/?utm_source=github)
 
 제휴 안내: 이 코드를 통한 추천 실적에 따라 운영자가 수수료를 받습니다.
 
@@ -32,7 +32,7 @@ Saving to the cloud does not automatically download a file to your phone or comp
 
 The iOS app cannot add download links directly; add them in the web drive, then open the file in the app using the same account. The web version cannot download a whole folder: download individual files or use a PikPak desktop app.
 
-[Read the illustrated guide](https://appguideplus.com/en/pikpak-guide/) · [Open PikPak Web Drive](https://mypikpak.com/drive/all)
+[Read the illustrated guide](https://appguideplus.com/en/pikpak-guide/?utm_source=github) · [Open PikPak Web Drive](https://mypikpak.com/drive/all)
 
 ## Official help
 
@@ -45,11 +45,11 @@ The iOS app cannot add download links directly; add them in the web drive, then 
 
 Invitation codes concern new-user Premium benefits. Referral Pro is the cash-reward program for people who recommend PikPak.
 
-- [PikPak invitation code and free Premium](https://appguideplus.com/en/pikpak-free-premium/)
-- [PikPak Referral Pro: rewards and withdrawals](https://appguideplus.com/en/pikpak-referral-pro/)
+- [PikPak invitation code and free Premium](https://appguideplus.com/en/pikpak-free-premium/?utm_source=github)
+- [PikPak Referral Pro: rewards and withdrawals](https://appguideplus.com/en/pikpak-referral-pro/?utm_source=github)
 
 ## About
 
-Maintained by [AppGuide+](https://appguideplus.com/en/), an independent guide site. This is an independent guide, not official PikPak customer support. Menu names and availability can change with the app version or account.
+Maintained by [AppGuide+](https://appguideplus.com/en/?utm_source=github), an independent guide site. This is an independent guide, not official PikPak customer support. Menu names and availability can change with the app version or account.
 
 [AppGuide+ 전체 앱 목차](https://github.com/appguideplus/app-guides/blob/main/README.md) · [카카오톡 채널](https://pf.kakao.com/_bxkarX)

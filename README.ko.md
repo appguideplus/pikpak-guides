@@ -1,4 +1,4 @@
-# 픽팍(PikPak) 사용법 — 파일 저장부터 재생·다운로드까지
+# 픽팍(PikPak) 사용법 — 저장·다운로드와 윈도우 드라이브 연결
 
 
 픽팍 초대코드: **79099748** · [입력 방법과 무료 프리미엄 혜택 확인](https://appguideplus.com/ko/pikpak-free-premium/?utm_source=github)
@@ -109,3 +109,27 @@
 
 
 1. 웹의 파일 목록에서 파일을 오른쪽 클릭하고 Download to Device를 선택합니다. 앱에서는 파일의 다운로드 메뉴를 엽니다.
+2. 내려받기가 끝나면 기기의 다운로드 폴더와 파일 크기를 확인합니다. 클라우드 저장 완료와 기기 다운로드 완료는 별도입니다.
+3. 웹에서 폴더 전체를 받으려면 파일을 개별로 내려받거나 공식 데스크톱 앱을 사용하세요.
+
+## 윈도우에서 외장하드처럼 쓸 수 있나요?
+
+파일 탐색기에 드라이브 문자를 연결할 수 있지만, 클라우드 파일이 모두 PC에 저장되는 것은 아닙니다. 목적에 맞게 방법을 선택하세요.
+
+| 필요한 작업 | 연결 방법 | 먼저 확인할 조건 |
+| --- | --- | --- |
+| 인터넷 없이 파일 열기 | 공식 PikPak Windows 앱으로 PC에 다운로드 | 로컬 저장 공간과 다운로드 완료 여부 |
+| 파일 탐색기에서 클라우드 파일 열기 | Air Live Drive의 PikPak 직접 연결 | 인터넷 연결과 드라이브 문자; WebDAV 설정은 불필요 |
+| 기존 WebDAV 클라이언트 사용 | PikPak 설정에서 WebDAV 활성화 후 연결 | Premium 계정과 발급한 WebDAV 인증 정보 |
+
+가상 드라이브는 별도의 백업본이 아닙니다. 파일을 삭제하면 클라우드에도 반영될 수 있고, 캐시는 PC 저장 공간을 사용할 수 있습니다. 오프라인 사본은 따로 다운로드하세요.
+
+[설정 순서·연결 오류·공식 출처 보기](https://appguideplus.com/ko/pikpak-guide/?utm_source=github#windows-drive) · [10TB 용량과 월 전송량, 다른 드라이브 비교](https://appguideplus.com/ko/pikpak/benefits/?utm_source=github)
+
+## 초대코드 입력과 혜택 확인
+
+초대코드 **79099748**의 입력 위치와 신규 계정 적용 조건은 [초대 혜택 안내](https://appguideplus.com/ko/pikpak-free-premium/?utm_source=github)에서 확인하세요. 실제 적용 여부와 기간은 PikPak 계정 화면을 기준으로 보세요.
+
+[화면과 함께 보는 전체 사용법](https://appguideplus.com/ko/pikpak-guide/?utm_source=github) · [AppGuide+ 앱별 안내](https://appguideplus.com/ko/apps/?utm_source=github)
+
+기본 사용법 자료 확인: 2026-09-14 · 윈도우 연결 자료 확인: 2026-09-27 · 문서 편집: 2026-09-30

@@ -144,4 +144,13 @@ SD 카드 조건 확인: 2026-09-30. 클라우드 저장 완료와 기기 다운
 
 [화면과 함께 보는 전체 사용법](https://appguideplus.com/ko/pikpak-guide/?utm_source=github) · [AppGuide+ 앱별 안내](https://appguideplus.com/ko/apps/?utm_source=github)
 
-기본 사용법 자료 확인: 2026-09-14 · 윈도우 연결 자료 확인: 2026-09-27 · 문서 편집: 2026-09-30
+기본 사용법 자료 확인: 2026-09-14 · 윈도우 연결 자료 확인: 2026-09-27 · 문서 편집: 2026-10-05
+
+## 저장했는데 파일이 없거나 Windows 연결이 안 될 때
+
+- PikPak 파일 목록에도 없다면 저장 작업 완료 여부와 웹·앱의 로그인 계정을 확인하세요.
+- PikPak에는 있지만 기기에 없다면 기기 다운로드 완료 여부와 실제 저장 위치를 확인하세요. Cloud Download 완료만으로 PC·휴대폰에 파일이 생기지는 않습니다.
+- 내려받기가 느리다면 클라우드 저장과 기기 전송을 구분하고 잔여 전송량·연결된 앱 조건을 확인하세요.
+- Air Live Drive의 PikPak 직접 연결과 WebDAV 설정은 다른 절차입니다. WebDAV는 Premium 계정에서 발급한 인증 정보를 사용하며 클라이언트 호환성이 다를 수 있습니다. 인증 정보는 공유하지 마세요.
+
+[증상별 확인 순서](https://appguideplus.com/ko/pikpak-guide/?utm_source=github&utm_medium=referral&utm_campaign=pikpak_diagnosis#problem-start) · [Windows 연결 방법](https://appguideplus.com/ko/pikpak-guide/?utm_source=github&utm_medium=referral&utm_campaign=pikpak_diagnosis#windows-drive)

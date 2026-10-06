@@ -154,3 +154,12 @@ SD 카드 조건 확인: 2026-09-30. 클라우드 저장 완료와 기기 다운
 - Air Live Drive의 PikPak 직접 연결과 WebDAV 설정은 다른 절차입니다. WebDAV는 Premium 계정에서 발급한 인증 정보를 사용하며 클라이언트 호환성이 다를 수 있습니다. 인증 정보는 공유하지 마세요.
 
 [증상별 확인 순서](https://appguideplus.com/ko/pikpak-guide/?utm_source=github&utm_medium=referral&utm_campaign=pikpak_diagnosis#problem-start) · [Windows 연결 방법](https://appguideplus.com/ko/pikpak-guide/?utm_source=github&utm_medium=referral&utm_campaign=pikpak_diagnosis#windows-drive)
+
+
+## 로그인·재생·전송량 문제별 확인
+
+- [인증 메일이 안 오거나 기존 계정으로 로그인할 수 없을 때](https://appguideplus.com/ko/pikpak/login/?utm_source=github): 인증코드와 초대코드 구분, Apple 비공개 이메일 계정, 공식 로그인 시도 제한 안내입니다.
+- [소리만 나오거나 영상이 끊길 때](https://appguideplus.com/ko/pikpak-guide/?utm_source=github#playback-help): 브라우저 재생과 파일 문제를 구분해 확인합니다.
+- [10TB 공간이 남아 있는데 전송이 막힐 때](https://appguideplus.com/ko/pikpak/benefits/?utm_source=github#section-2): 저장 공간·Cloud Download·Downstream·Upload를 따로 확인합니다.
+
+내용 확인: 2026-10-06. 로그인 인증 화면에는 초대코드 79099748이 아닌 메일로 받은 인증코드를 사용하세요.

@@ -130,3 +130,13 @@ AppGuide+ 是獨立指南網站。
 內容核對及 GitHub 版編輯：2026-09-14。最新選單與適用條件請以官方說明及帳戶頁面為準。
 
 [AppGuide+ · 전체 앱 가이드 / All app guides](README.md)
+
+
+
+
+## 購買、自動續訂與手機容量
+
+[Global／Regional、取消續訂與雲端儲存的差別](https://appguideplus.com/zh-hant/pikpak-guide/?utm_source=github#buying-help)
+
+購買前先確認方案適用地區與付款平台。存到雲端和下載到手機是兩個不同的步驟。
+

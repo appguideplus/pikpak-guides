@@ -136,7 +136,7 @@ SD 카드 조건 확인: 2026-09-30. 클라우드 저장 완료와 기기 다운
 
 가상 드라이브는 별도의 백업본이 아닙니다. 파일을 삭제하면 클라우드에도 반영될 수 있고, 캐시는 PC 저장 공간을 사용할 수 있습니다. 오프라인 사본은 따로 다운로드하세요.
 
-[설정 순서·연결 오류·공식 출처 보기](https://appguideplus.com/ko/pikpak-guide/?utm_source=github#windows-drive) · [10TB 용량과 월 전송량, 다른 드라이브 비교](https://appguideplus.com/ko/pikpak/benefits/?utm_source=github)
+[설정 순서·연결 오류·공식 출처 보기](https://appguideplus.com/ko/pikpak/windows-drive/?utm_source=github) · [10TB 용량과 월 전송량, 다른 드라이브 비교](https://appguideplus.com/ko/pikpak/benefits/?utm_source=github)
 
 ## 초대코드 입력과 혜택 확인
 
@@ -163,3 +163,11 @@ SD 카드 조건 확인: 2026-09-30. 클라우드 저장 완료와 기기 다운
 - [10TB 공간이 남아 있는데 전송이 막힐 때](https://appguideplus.com/ko/pikpak/benefits/?utm_source=github#section-2): 저장 공간·Cloud Download·Downstream·Upload를 따로 확인합니다.
 
 내용 확인: 2026-10-06. 로그인 인증 화면에는 초대코드 79099748이 아닌 메일로 받은 인증코드를 사용하세요.
+
+## Premium 만료 후 파일 보관
+
+무료 용량 초과 여부에 따라 이용 제한과 장기 삭제 조건이 달라집니다. 중요한 원본은 별도 사본으로 남겨 두세요.
+
+[만료 후 보관 조건·백업 순서](https://appguideplus.com/ko/pikpak/expiry/?utm_source=github) · [Windows 연결 상세 안내](https://appguideplus.com/ko/pikpak/windows-drive/?utm_source=github)
+
+공식 근거 확인: 2026-10-07. 무료 체험코드와 별도로 구매한 자동 갱신 구독은 구분하세요.

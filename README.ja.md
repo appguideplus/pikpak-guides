@@ -130,3 +130,17 @@ AppGuide+は独立したガイドサイトです。
 内容確認・GitHub版編集: 2026-09-14。最新のメニューと利用条件は公式ヘルプとアカウント画面で確認してください。
 
 [AppGuide+ · 전체 앱 가이드 / All app guides](README.md)
+
+
+
+
+## 購入・解約とiPhoneの容量
+
+
+
+[Global/Regional、自動更新の解約、端末容量とクラウドの違い](https://appguideplus.com/ja/pikpak-guide/?utm_source=github#buying-help)
+
+
+
+日本で使うプランの対応地域と購入先を確認してください。クラウド保存と端末へのダウンロードは別です。
+

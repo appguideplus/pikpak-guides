@@ -171,3 +171,21 @@ SD 카드 조건 확인: 2026-09-30. 클라우드 저장 완료와 기기 다운
 [만료 후 보관 조건·백업 순서](https://appguideplus.com/ko/pikpak/expiry/?utm_source=github) · [Windows 연결 상세 안내](https://appguideplus.com/ko/pikpak/windows-drive/?utm_source=github)
 
 공식 근거 확인: 2026-10-07. 무료 체험코드와 별도로 구매한 자동 갱신 구독은 구분하세요.
+
+
+
+
+## Premium 구매와 장기 비용
+
+
+
+- [가격·구매·Global/Regional·자동 갱신](https://appguideplus.com/ko/pikpak/premium-purchase/?utm_source=github)
+- 
+- [사진·영상·문서 용도와 3년·5년 비용 비교](https://appguideplus.com/ko/pcloud/cloud-storage-comparison/?utm_source=github)
+- 
+
+
+체험과 유료 구독은 별개입니다. 구매 전 결제 총액과 갱신 조건을 확인하세요.
+
+
+

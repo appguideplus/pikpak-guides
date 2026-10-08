@@ -156,13 +156,13 @@ AppGuide+は独立したガイドサイトです。
 
 
 
-## 音声・映像・字幕が出ないとき
+## 端末にローカル保存するには
 
 
 
-音声だけ・映像だけになる場合は、ブラウザのコーデック対応が原因のことがあります。同じファイルをPikPak Windowsアプリで確認してください。音が出ないときはミュートと出力先、字幕がないときは元のファイルの字幕を確認します。
+Cloud DownloadはPikPakのクラウドへの保存です。スマートフォンやPCにファイルを残すには「Download to Device」を選び、ダウンロード一覧から保存先を確認してください。
 
 
 
-[音声・映像・字幕が出ないときの確認順序](https://appguideplus.com/ja/pikpak-guide/?utm_source=github#playback-help) · 内容確認: 2026-10-08。
+[端末へのダウンロードと保存先の確認](https://appguideplus.com/ja/pikpak-guide/?utm_source=github#download) · 内容確認: 2026-10-08。
 

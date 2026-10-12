@@ -10,6 +10,10 @@
 [한국어](README.ko.md) · [English](README.en.md) · [日本語](README.ja.md) · [简体中文](README.zh-hans.md) · [繁體中文（台灣）](README.zh-hant.md) · [繁體中文（香港）](README.zh-hk.md)
 
 
+## 필요한 안내 바로 찾기
+
+[로그인·인증 메일](https://appguideplus.com/ko/pikpak/login/?utm_source=github) · [Windows 드라이브 연결](https://appguideplus.com/ko/pikpak/windows-drive/?utm_source=github) · [만료 후 파일 보관](https://appguideplus.com/ko/pikpak/expiry/?utm_source=github) · [요금·자동 갱신](https://appguideplus.com/ko/pikpak/premium-purchase/?utm_source=github) · [약관·개인정보](https://appguideplus.com/ko/pikpak/terms-and-privacy/?utm_source=github)
+
 | 하려는 작업 | 웹 메뉴 |
 | --- | --- |
 | 파일을 PikPak에 저장하기 | Cloud Download → Create Now |
@@ -173,38 +177,25 @@ SD 카드 조건 확인: 2026-09-30. 클라우드 저장 완료와 기기 다운
 공식 근거 확인: 2026-10-07. 무료 체험코드와 별도로 구매한 자동 갱신 구독은 구분하세요.
 
 
-
-
 ## Premium 구매와 장기 비용
 
 
-
 - [가격·구매·Global/Regional·자동 갱신](https://appguideplus.com/ko/pikpak/premium-purchase/?utm_source=github)
-- 
-- [사진·영상·문서 용도와 3년·5년 비용 비교](https://appguideplus.com/ko/pcloud/cloud-storage-comparison/?utm_source=github)
-- 
 
+- [사진·영상·문서 용도와 3년·5년 비용 비교](https://appguideplus.com/ko/pcloud/cloud-storage-comparison/?utm_source=github)
 
 체험과 유료 구독은 별개입니다. 구매 전 결제 총액과 갱신 조건을 확인하세요.
-
-
-
-
-
 
 
 ## 가입·장기 보관 전에 약관 확인
 
 
-
 개인 공간도 로그 보관·파일 삭제·계정 정지 조건은 있습니다. 계정 비밀번호는 공유하지 말고 중요한 원본은 별도로 보관하세요.
-
 
 
 일반 저장 공간과 Vault는 암호화 방식이 다릅니다. Vault는 별도 종단 간 암호화를 사용하지만, HD 변환·미리보기·캐스팅을 사용할 수 없습니다. 비밀번호와 복구키를 모두 잃으면 복구할 수 없으며, Reset Vault는 안의 파일을 영구 삭제합니다. 복구키를 안전한 곳에 따로 보관하세요.
 
 [약관·개인정보: 로그 보관, 계정 공유와 삭제 조건](https://appguideplus.com/ko/pikpak/terms-and-privacy/?utm_source=github)
-
 
 
 공식 문서 확인: 2026-10-08. 문서별 통지·삭제 유예 표현의 차이도 구분합니다.

@@ -1,14 +1,12 @@
 # 픽팍(PikPak) 사용법 — 저장·다운로드와 윈도우 드라이브 연결
 
-
 픽팍 초대코드: **79099748** · [입력 방법과 무료 프리미엄 혜택 확인](https://appguideplus.com/ko/pikpak-free-premium/?utm_source=github)
-
 
 제휴 안내: 이 코드를 통한 추천 실적에 따라 운영자가 수수료를 받습니다.
 
+AppGuide+가 정리한 독립적인 이용 안내이며, PikPak 공식 고객지원 문서는 아닙니다.
 
 [한국어](README.ko.md) · [English](README.en.md) · [日本語](README.ja.md) · [简体中文](README.zh-hans.md) · [繁體中文（台灣）](README.zh-hant.md) · [繁體中文（香港）](README.zh-hk.md)
-
 
 ## 필요한 안내 바로 찾기
 
@@ -21,96 +19,68 @@
 | 저장한 영상 재생하기 | Open |
 | 휴대폰·컴퓨터로 다운로드하기 | Download to Device |
 
-
 ## 먼저 알아두면 좋은 두 가지
-
 
 **클라우드에 저장하기** — 링크의 파일을 PikPak 계정에 가져오는 단계입니다. 저장이 끝나도 휴대폰이나 컴퓨터에 파일이 생기는 것은 아닙니다.
 
-
 **기기로 다운로드하기** — PikPak에 저장된 파일을 휴대폰이나 컴퓨터로 내려받는 단계입니다. 기기의 저장 공간과 다운로드 위치를 확인하세요.
 
-
 ## 어디서 시작하면 되나요?
-
 
 - **컴퓨터:** 웹 드라이브에서 시작하면 별도 앱 설치 없이 파일과 메뉴를 확인할 수 있습니다.
 - **Android:** PikPak 앱에서 파일을 확인하고 재생할 수 있습니다. 메뉴 위치는 앱 버전에 따라 다를 수 있습니다.
 - **iPhone·iPad:** 앱 안에서는 다운로드 링크를 추가할 수 없습니다. 웹 드라이브에서 링크를 저장한 뒤, 같은 계정으로 앱에 로그인해 파일을 여세요.
 
-
 웹에서 폴더 전체를 다운로드할 수는 없습니다. 안의 파일을 개별로 내려받거나 PikPak 데스크톱 앱을 사용하세요.
-
 
 ### 기기에 있는 파일을 올리려면
 
-
 상단 Upload에서 Upload Files를 선택하고 올릴 파일을 고릅니다. 폴더를 올릴 때는 Upload Folder를 사용하세요. 업로드 완료 후 파일 목록에서 결과를 확인합니다.
-
 
 웹에서는 파일을 마우스 오른쪽 버튼으로 눌러 작업 메뉴를 열 수 있습니다. Move는 이동, Rename은 이름 변경, Download to Device는 기기로 다운로드하는 기능입니다.
 
-
 ## 1. 파일을 PikPak에 저장하기
 
-
 직접 만든 파일이나 이용 권한이 있는 자료 하나로 시작하세요.
-
 
 1. PikPak 웹 드라이브에 로그인합니다. 앱에서도 확인하려면 같은 계정을 사용하세요.
 2. 마그넷 링크나 토렌트 파일을 가져올 때는 클라우드 다운로드(Cloud Download)를 엽니다. 링크를 붙여 넣거나 토렌트 파일을 선택합니다.
 3. Create Now를 눌러 작업을 시작한 뒤 완료 상태를 확인합니다. 파일 목록에서 저장된 파일을 찾으세요.
 
-
 클라우드 저장이 끝나기 전에는 파일이 바로 재생되거나 내려받아지지 않을 수 있습니다.
-
 
 ![클라우드 다운로드: 링크나 토렌트 파일을 추가하는 메뉴](https://appguideplus.com/assets/pikpak-cloud-download.png?utm_source=github)
 
-
 [공식 링크 저장 도움말](https://mypikpak.com/en-US/help-center/beginner_tutorial/save_content/margnet_link)
-
 
 ## 2. 폴더로 정리하기
 
-
 파일이 쌓이기 전에 폴더 이름부터 정해 두면 찾기 쉽습니다.
-
 
 1. 파일 목록 위의 Create Folder를 열고, ‘여행 영상’처럼 내용을 알아볼 수 있는 이름을 입력합니다.
 2. 정리할 파일을 선택한 뒤 파일 메뉴의 이동 기능을 엽니다.
 3. 대상 폴더를 선택하고 이동을 완료합니다. 새 폴더를 열어 파일이 있는지 확인하세요.
 4. 이름을 바꿀 때는 파일 메뉴의 이름 변경 기능을 사용합니다. 파일 확장자는 그대로 두는 편이 좋습니다.
 
-
 폴더 안으로 이동하는 것과 휴지통으로 보내는 것은 다릅니다. 선택한 동작과 대상 폴더를 확인하세요.
-
 
 ![새 폴더 만들기: 이름을 입력하고 Create 선택](https://appguideplus.com/assets/pikpak-create-folder.png?utm_source=github)
 
-
 ## 3. 저장한 영상 재생하기
 
-
 저장이 완료된 영상 파일을 열어 재생합니다.
-
 
 1. 파일 목록이나 정리한 폴더에서 영상 파일을 엽니다.
 2. 재생이 시작되면 소리와 화면을 확인합니다. 필요한 경우 재생 화면에서 제공되는 화질이나 자막 메뉴를 사용하세요.
 3. 웹에서 재생 오류가 나면 같은 계정의 PikPak 앱에서도 열어 보세요. Android는 지원되는 영상 메뉴에서 다른 플레이어로 재생하는 기능도 제공합니다.
 
-
 영상 형식, 오디오 코덱, 브라우저에 따라 재생 가능 여부가 다릅니다. 모든 파일이 모든 기기에서 같은 방식으로 재생되지는 않습니다.
-
 
 [공식 영상 재생 도움말](https://mypikpak.com/en-US/help-center/play_and_download/playback)
 
-
 ## 4. 휴대폰·컴퓨터로 다운로드하기
 
-
 인터넷 연결 없이 사용할 파일은 기기에 내려받아 두세요.
-
 
 1. 웹의 파일 목록에서 파일을 오른쪽 클릭하고 Download to Device를 선택합니다. 앱에서는 파일의 다운로드 메뉴를 엽니다.
 2. 내려받기가 끝나면 기기의 다운로드 폴더와 파일 크기를 확인합니다. 클라우드 저장 완료와 기기 다운로드 완료는 별도입니다.
@@ -148,7 +118,7 @@ SD 카드 조건 확인: 2026-09-30. 클라우드 저장 완료와 기기 다운
 
 [화면과 함께 보는 전체 사용법](https://appguideplus.com/ko/pikpak-guide/?utm_source=github) · [AppGuide+ 앱별 안내](https://appguideplus.com/ko/apps/?utm_source=github)
 
-기본 사용법 자료 확인: 2026-09-14 · 윈도우 연결 자료 확인: 2026-09-27 · 문서 편집: 2026-10-05
+기본 사용법 자료 확인: 2026-09-14 · 윈도우 연결 자료 확인: 2026-09-27 · 문서 편집: 2026-10-13
 
 ## 저장했는데 파일이 없거나 Windows 연결이 안 될 때
 
@@ -158,7 +128,6 @@ SD 카드 조건 확인: 2026-09-30. 클라우드 저장 완료와 기기 다운
 - Air Live Drive의 PikPak 직접 연결과 WebDAV 설정은 다른 절차입니다. WebDAV는 Premium 계정에서 발급한 인증 정보를 사용하며 클라이언트 호환성이 다를 수 있습니다. 인증 정보는 공유하지 마세요.
 
 [증상별 확인 순서](https://appguideplus.com/ko/pikpak-guide/?utm_source=github&utm_medium=referral&utm_campaign=pikpak_diagnosis#problem-start) · [Windows 연결 방법](https://appguideplus.com/ko/pikpak-guide/?utm_source=github&utm_medium=referral&utm_campaign=pikpak_diagnosis#windows-drive)
-
 
 ## 로그인·재생·전송량 문제별 확인
 
@@ -176,9 +145,7 @@ SD 카드 조건 확인: 2026-09-30. 클라우드 저장 완료와 기기 다운
 
 공식 근거 확인: 2026-10-07. 무료 체험코드와 별도로 구매한 자동 갱신 구독은 구분하세요.
 
-
 ## Premium 구매와 장기 비용
-
 
 - [가격·구매·Global/Regional·자동 갱신](https://appguideplus.com/ko/pikpak/premium-purchase/?utm_source=github)
 
@@ -186,16 +153,12 @@ SD 카드 조건 확인: 2026-09-30. 클라우드 저장 완료와 기기 다운
 
 체험과 유료 구독은 별개입니다. 구매 전 결제 총액과 갱신 조건을 확인하세요.
 
-
 ## 가입·장기 보관 전에 약관 확인
 
-
 개인 공간도 로그 보관·파일 삭제·계정 정지 조건은 있습니다. 계정 비밀번호는 공유하지 말고 중요한 원본은 별도로 보관하세요.
-
 
 일반 저장 공간과 Vault는 암호화 방식이 다릅니다. Vault는 별도 종단 간 암호화를 사용하지만, HD 변환·미리보기·캐스팅을 사용할 수 없습니다. 비밀번호와 복구키를 모두 잃으면 복구할 수 없으며, Reset Vault는 안의 파일을 영구 삭제합니다. 복구키를 안전한 곳에 따로 보관하세요.
 
 [약관·개인정보: 로그 보관, 계정 공유와 삭제 조건](https://appguideplus.com/ko/pikpak/terms-and-privacy/?utm_source=github)
-
 
 공식 문서 확인: 2026-10-08. 문서별 통지·삭제 유예 표현의 차이도 구분합니다.

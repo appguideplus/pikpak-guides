@@ -109,6 +109,16 @@ App 內離線儲存與匯出到系統「照片」「檔案」可能是不同功�
 
 從瀏覽器下載紀錄或 PikPak 下載清單開啟儲存位置。手機下載的檔案不一定自動出現在照片 App 中。
 
+### 手機關閉螢幕後下載中斷
+
+省電機制可能暫停 App。先保持螢幕開啟確認進度，再嘗試充電時下載；充電不保證一定解決。
+
+### 想確認檔案原本的資源連結
+
+開啟檔案的三點選單，選擇查看詳細資訊，再查看底部的資源連結。這不是把檔案匯出到手機的操作；若來源已失效，該連結不一定還能取得檔案。
+
+[官方 FAQ：關閉螢幕下載中斷與資源連結](https://mypikpak.com/zh-TW/faq) · 確認：2026-10-13。
+
 [查看附畫面的完整教學](https://appguideplus.com/zh-hant/pikpak-guide/?utm_source=github)
 
 ## PikPak 官方說明中心
@@ -131,26 +141,15 @@ AppGuide+ 是獨立指南網站。
 
 [AppGuide+ · 전체 앱 가이드 / All app guides](README.md)
 
-
-
-
 ## 購買、自動續訂與手機容量
 
 [Global／Regional、取消續訂與雲端儲存的差別](https://appguideplus.com/zh-hant/pikpak-guide/?utm_source=github#buying-help)
 
 購買前先確認方案適用地區與付款平台。存到雲端和下載到手機是兩個不同的步驟。
 
-
-
-
-
 ## 影片沒有聲音、畫面或字幕時
 
-
-
 網頁版只有聲音或只有畫面，可能與瀏覽器支援的編碼有關。請用 PikPak Windows App 播放同一個檔案確認。完全沒有聲音時，先檢查靜音與音訊輸出；看不到字幕時，確認原始檔案是否提供字幕。
-
-
 
 [聲音、畫面與字幕問題的確認順序](https://appguideplus.com/zh-hant/pikpak-guide/?utm_source=github#playback-help) · 內容確認：2026-10-08。
 

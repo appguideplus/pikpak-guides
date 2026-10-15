@@ -162,3 +162,10 @@ SD 카드 조건 확인: 2026-09-30. 클라우드 저장 완료와 기기 다운
 [약관·개인정보: 로그 보관, 계정 공유와 삭제 조건](https://appguideplus.com/ko/pikpak/terms-and-privacy/?utm_source=github)
 
 공식 문서 확인: 2026-10-08. 문서별 통지·삭제 유예 표현의 차이도 구분합니다.
+
+
+## WebDAV만 느리거나 연결을 그만 쓸 때
+
+연결 앱들은 전송 종류별 월간 할당량의 25%를 함께 사용합니다. 클라이언트를 바꾸거나 연결을 더 만들어도 별도 한도가 생기지 않습니다. 사용량·이용권 만료일을 확인하고, 쓰지 않는 연결은 Account & Security → Connected Apps에서 접근 권한을 회수하세요.
+
+[전송량 한도와 연결 해제 안내](https://appguideplus.com/ko/pikpak/windows-drive/?utm_source=github)

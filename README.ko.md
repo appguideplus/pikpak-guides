@@ -12,6 +12,8 @@ AppGuide+가 정리한 독립적인 이용 안내이며, PikPak 공식 고객지
 
 [로그인·인증 메일](https://appguideplus.com/ko/pikpak/login/?utm_source=github) · [Windows 드라이브 연결](https://appguideplus.com/ko/pikpak/windows-drive/?utm_source=github) · [만료 후 파일 보관](https://appguideplus.com/ko/pikpak/expiry/?utm_source=github) · [요금·자동 갱신](https://appguideplus.com/ko/pikpak/premium-purchase/?utm_source=github) · [약관·개인정보](https://appguideplus.com/ko/pikpak/terms-and-privacy/?utm_source=github)
 
+**CLI·AI 연결:** 공식 CLI 설치·로그인, MCP와 스킬의 차이, 연결 권한 해제를 [CLI·AI 연결 안내](https://appguideplus.com/ko/pikpak/cli-ai/?utm_source=github)에서 확인하세요.
+
 | 하려는 작업 | 웹 메뉴 |
 | --- | --- |
 | 파일을 PikPak에 저장하기 | Cloud Download → Create Now |

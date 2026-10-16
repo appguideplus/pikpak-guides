@@ -6,6 +6,8 @@ PikPak 邀請碼： **79099748** · [查看輸入方式與免費進階會員優�
 
 [한국어](README.ko.md) · [English](README.en.md) · [日本語](README.ja.md) · [简体中文](README.zh-hans.md) · [繁體中文（台灣）](README.zh-hant.md) · [繁體中文（香港）](README.zh-hk.md)
 
+**CLI 與 AI 連接：** [CLI 與 AI 教學](https://appguideplus.com/zh-hant/pikpak/cli-ai/?utm_source=github)介紹官方 CLI 安裝與登入、MCP 和技能的差別，以及如何撤銷存取權限。
+
 | 操作 | 網頁選單 |
 | --- | --- |
 | 將檔案儲存到 PikPak | Cloud Download → Create Now |

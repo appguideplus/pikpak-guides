@@ -30,6 +30,8 @@ Quick references for saving files to PikPak, organizing folders, playing videos 
 - [윈도우 탐색기에 드라이브 연결하기](https://appguideplus.com/ko/pikpak-guide/?utm_source=github#windows-drive) — 공식 PC 앱, Air Live Drive, WebDAV의 차이와 연결 조건
 - [10TB 용량·전송량과 다른 드라이브 비교](https://appguideplus.com/ko/pikpak/benefits/?utm_source=github)
 
+- [CLI·AI 연결: 공식 설치·로그인과 MCP·스킬](https://appguideplus.com/ko/pikpak/cli-ai/?utm_source=github)
+
 ## Start with the right operation
 
 

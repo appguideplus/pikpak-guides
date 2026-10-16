@@ -8,6 +8,8 @@ PikPak招待コード: **79099748** · [入力方法と無料プレミアム特�
 
 **CLI・AI連携：** 公式CLIのインストールとログイン、MCPとスキルの違い、アクセス権の取り消しは[CLI・AI連携ガイド](https://appguideplus.com/ja/pikpak/cli-ai/?utm_source=github)で確認できます。
 
+招待コード付きの新規登録：`pikpak auth register --affiliate 79099748`。登録前に紹介者を確認・解除できます。紹介なしの場合は `pikpak auth register` を使ってください。
+
 | やりたいこと | Web版の操作 |
 | --- | --- |
 | PikPakにファイルを保存する | Cloud Download → Create Now |

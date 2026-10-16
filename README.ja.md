@@ -6,6 +6,8 @@ PikPak招待コード: **79099748** · [入力方法と無料プレミアム特�
 
 [한국어](README.ko.md) · [English](README.en.md) · [日本語](README.ja.md) · [简体中文](README.zh-hans.md) · [繁體中文（台灣）](README.zh-hant.md) · [繁體中文（香港）](README.zh-hk.md)
 
+**CLI・AI連携：** 公式CLIのインストールとログイン、MCPとスキルの違い、アクセス権の取り消しは[CLI・AI連携ガイド](https://appguideplus.com/ja/pikpak/cli-ai/?utm_source=github)で確認できます。
+
 | やりたいこと | Web版の操作 |
 | --- | --- |
 | PikPakにファイルを保存する | Cloud Download → Create Now |

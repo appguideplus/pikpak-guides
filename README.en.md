@@ -6,6 +6,8 @@ Referral disclosure: the operator earns commissions on qualifying referrals thro
 
 [한국어](README.ko.md) · [English](README.en.md) · [日本語](README.ja.md) · [简体中文](README.zh-hans.md) · [繁體中文（台灣）](README.zh-hant.md) · [繁體中文（香港）](README.zh-hk.md)
 
+**CLI and AI setup:** Follow the [CLI and AI guide](https://appguideplus.com/en/pikpak/cli-ai/?utm_source=github) for official installation and sign-in, the differences between MCP and skills, and revoking access.
+
 | Task | Web action |
 | --- | --- |
 | Save a file to PikPak | Cloud Download → Create Now |

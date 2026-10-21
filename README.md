@@ -86,3 +86,7 @@ Maintained by [AppGuide+](https://appguideplus.com/en/?utm_source=github), an in
 
 [AppGuide+ 전체 앱 목차](https://github.com/appguideplus/app-guides/blob/main/README.md) · [카카오톡 채널](https://pf.kakao.com/_bxkarX)
 
+## AI onboarding skill
+
+[Read and install the PikPak onboarding skill](skills/pikpak-onboarding/README.md) — existing-account login, voluntary referral choice, verification and a first save/download. Available with [six-language setup guidance](https://appguideplus.com/ko/pikpak/cli-ai/?utm_source=github#onboarding).
+

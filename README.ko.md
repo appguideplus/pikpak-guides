@@ -176,3 +176,6 @@ SD 카드 조건 확인: 2026-09-30. 클라우드 저장 완료와 기기 다운
 연결 앱들은 전송 종류별 월간 할당량의 25%를 함께 사용합니다. 클라이언트를 바꾸거나 연결을 더 만들어도 별도 한도가 생기지 않습니다. 사용량·이용권 만료일을 확인하고, 쓰지 않는 연결은 Account & Security → Connected Apps에서 접근 권한을 회수하세요.
 
 [전송량 한도와 연결 해제 안내](https://appguideplus.com/ko/pikpak/windows-drive/?utm_source=github)
+
+- [온보딩 스킬: 가입 선택·인증·첫 파일 저장](https://appguideplus.com/ko/pikpak/cli-ai/?utm_source=github#onboarding) · [SKILL.md](skills/pikpak-onboarding/SKILL.md)
+

@@ -160,3 +160,5 @@ AppGuide+ 是獨立指南網站。
 
 [聲音、畫面與字幕問題的確認順序](https://appguideplus.com/zh-hant/pikpak-guide/?utm_source=github#playback-help) · 內容確認：2026-10-08。
 
+- [新手技能：註冊選擇、驗證與首次儲存](https://appguideplus.com/zh-hant/pikpak/cli-ai/?utm_source=github#onboarding) · [SKILL.md](skills/pikpak-onboarding/SKILL.md)
+

@@ -164,3 +164,5 @@ Cloud DownloadはPikPakのクラウドへの保存です。スマートフォン
 
 [端末へのダウンロードと保存先の確認](https://appguideplus.com/ja/pikpak-guide/?utm_source=github#download) · 内容確認: 2026-10-08。
 
+- [導入スキル：登録の選択・認証・最初の保存](https://appguideplus.com/ja/pikpak/cli-ai/?utm_source=github#onboarding) · [SKILL.md](skills/pikpak-onboarding/SKILL.md)
+

@@ -137,3 +137,6 @@ AppGuide+ is an independent guide site.
 Content reviewed and GitHub edition edited: 2026-09-14. Check the official Help Center and your account for current menus and eligibility.
 
 [AppGuide+ · 전체 앱 가이드 / All app guides](README.md)
+
+- [Onboarding skill: signup choices, verification and your first file](https://appguideplus.com/en/pikpak/cli-ai/?utm_source=github#onboarding) · [SKILL.md](skills/pikpak-onboarding/SKILL.md)
+

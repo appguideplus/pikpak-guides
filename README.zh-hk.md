@@ -137,3 +137,6 @@ AppGuide+ 是獨立指南網站。
 內容核對及 GitHub 版編輯：2026-09-14。最新選單與適用條件請以官方說明及帳戶頁面為準。
 
 [AppGuide+ · 전체 앱 가이드 / All app guides](README.md)
+
+- [新手技能：註冊選擇、驗證及首次儲存](https://appguideplus.com/zh-hk/pikpak/cli-ai/?utm_source=github#onboarding) · [SKILL.md](skills/pikpak-onboarding/SKILL.md)
+

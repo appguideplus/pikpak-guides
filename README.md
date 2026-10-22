@@ -81,7 +81,7 @@ Invitation codes concern new-user Premium benefits. Referral Pro is the cash-rew
 ## About
 
 
-Maintained by [AppGuide+](https://appguideplus.com/en/?utm_source=github), an independent guide site. This is an independent guide, not official PikPak customer support. Menu names and availability can change with the app version or account.
+Maintained by [AppGuide+](https://appguideplus.com/en/?utm_source=github), an independent guide site. It is not official PikPak customer support. Menu names and availability can change with the app version or account.
 
 
 [AppGuide+ 전체 앱 목차](https://github.com/appguideplus/app-guides/blob/main/README.md) · [카카오톡 채널](https://pf.kakao.com/_bxkarX)

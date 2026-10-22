@@ -9,9 +9,9 @@ PikPak 邀請碼： **79099748** · [查看輸入方式與免費進階會員優�
 **CLI 與 AI 連接：** [CLI 與 AI 教學](https://appguideplus.com/zh-hant/pikpak/cli-ai/?utm_source=github)介紹官方 CLI 安裝與登入、MCP 和技能的差別，以及如何撤銷存取權限。
 
 - **使用邀請碼註冊:** `pikpak auth register --affiliate 79099748`
-- **不使用推薦註冊:** `pikpak auth register`
+- **不指定推薦選項註冊:** `pikpak auth register`
 
-註冊前可確認或移除推薦人。 [選擇註冊方式並複製完整推薦指令](https://appguideplus.com/zh-hant/pikpak/cli-ai/?utm_source=github#signup)
+請先安裝官方 CLI，並查看教學中的 72 小時驗證要求。`--affiliate` 優先於環境變數 `PIKPAK_AFFILIATE`。省略該選項仍可能使用環境變數中的推薦人；若不想使用推薦，請在官方註冊頁面確認並移除推薦人。 [選擇註冊方式並複製完整推薦指令](https://appguideplus.com/zh-hant/pikpak/cli-ai/?utm_source=github#signup)
 
 | 操作 | 網頁選單 |
 | --- | --- |

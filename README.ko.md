@@ -15,9 +15,9 @@ AppGuide+가 정리한 독립적인 이용 안내이며, PikPak 공식 고객지
 **CLI·AI 연결:** 공식 CLI 설치·로그인, MCP와 스킬의 차이, 연결 권한 해제를 [CLI·AI 연결 안내](https://appguideplus.com/ko/pikpak/cli-ai/?utm_source=github)에서 확인하세요.
 
 - **추천코드로 가입:** `pikpak auth register --affiliate 79099748`
-- **추천 없이 가입:** `pikpak auth register`
+- **추천 옵션 없이 가입:** `pikpak auth register`
 
-가입 전 추천인을 확인·제거할 수 있습니다. [가입 선택·추천 명령 전체 복사](https://appguideplus.com/ko/pikpak/cli-ai/?utm_source=github#signup)
+먼저 공식 CLI를 설치하고 아래 안내의 72시간 인증 조건을 확인하세요. `--affiliate`는 `PIKPAK_AFFILIATE` 환경변수보다 우선합니다. 옵션을 생략해도 환경변수의 추천인이 적용될 수 있으므로, 추천 없이 가입하려면 공식 가입 화면에서 추천인을 확인·제거하세요. [가입 선택·추천 명령 전체 복사](https://appguideplus.com/ko/pikpak/cli-ai/?utm_source=github#signup)
 
 | 하려는 작업 | 웹 메뉴 |
 | --- | --- |

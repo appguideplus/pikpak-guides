@@ -9,9 +9,9 @@ Referral disclosure: the operator earns commissions on qualifying referrals thro
 **CLI and AI setup:** Follow the [CLI and AI guide](https://appguideplus.com/en/pikpak/cli-ai/?utm_source=github) for official installation and sign-in, the differences between MCP and skills, and revoking access.
 
 - **Register with a referral:** `pikpak auth register --affiliate 79099748`
-- **Register without a referral:** `pikpak auth register`
+- **Register without the referral flag:** `pikpak auth register`
 
-Review or remove the referrer before registering. [Choose signup and copy the full referral command](https://appguideplus.com/en/pikpak/cli-ai/?utm_source=github#signup)
+Install the official CLI first and check the 72-hour verification requirement in the guide. `--affiliate` takes precedence over `PIKPAK_AFFILIATE`. Omitting the flag can still use that environment variable, so review and remove the referrer on the official signup page if you want no referral. [Choose signup and copy the full referral command](https://appguideplus.com/en/pikpak/cli-ai/?utm_source=github#signup)
 
 | Task | Web action |
 | --- | --- |

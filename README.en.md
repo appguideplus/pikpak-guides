@@ -20,7 +20,7 @@ Install the official CLI first and check the 72-hour verification requirement in
 | Play a saved video | Open |
 | Download to your device | Download to Device |
 
-## Two different kinds of saving
+## Cloud saving and device downloads
 
 **Save to the cloud** — Bring a file from a link into your PikPak account. Completing this step does not put a copy on your phone or computer.
 

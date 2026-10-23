@@ -6,6 +6,11 @@ PikPak 邀请码： **79099748** · [查看输入方法与免费高级会员福�
 
 [한국어](README.ko.md) · [English](README.en.md) · [日本語](README.ja.md) · [简体中文](README.zh-hans.md) · [繁體中文（台灣）](README.zh-hant.md) · [繁體中文（香港）](README.zh-hk.md)
 
+## 首次使用 / 已有账号
+
+- 首次使用：[确认是否适合你的用途](https://appguideplus.com/zh-hans/pikpak/?utm_source=github#fit) → [查看新账号邀请条件](https://appguideplus.com/zh-hans/pikpak-free-premium/?utm_source=github)。
+- 已有账号：登录原账号，先[试存一个文件并播放、下载](https://appguideplus.com/zh-hans/pikpak-guide/?utm_source=github#save)。
+
 **CLI 与 AI 连接：** [CLI 与 AI 指南](https://appguideplus.com/zh-hans/pikpak/cli-ai/?utm_source=github)介绍官方 CLI 的安装和登录、MCP 与技能的区别，以及如何撤销访问权限。
 
 - **使用邀请码注册:** `pikpak auth register --affiliate 79099748`
@@ -127,7 +132,7 @@ PikPak 邀请码： **79099748** · [查看输入方法与免费高级会员福�
 
 ## 邀请码与 Referral Pro
 
-邀请码用于新用户的高级会员福利；Referral Pro 是面向 PikPak 推荐者的现金奖励计划。
+手动输入邀请码须在新账号注册后 12 小时内完成，与付费购买的兑换码不同。绑定邀请关系不保证获得免费 Premium；实际福利与期限请查看账号页面。Referral Pro 是面向推荐者的现金奖励计划。
 
 - [PikPak 邀请码与免费高级会员领取指南](https://appguideplus.com/zh-hans/pikpak-free-premium/?utm_source=github)
 - [PikPak Referral Pro 收益与提现指南](https://appguideplus.com/zh-hans/pikpak-referral-pro/?utm_source=github)

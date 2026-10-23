@@ -6,6 +6,11 @@ Referral disclosure: the operator earns commissions on qualifying referrals thro
 
 [한국어](README.ko.md) · [English](README.en.md) · [日本語](README.ja.md) · [简体中文](README.zh-hans.md) · [繁體中文（台灣）](README.zh-hant.md) · [繁體中文（香港）](README.zh-hk.md)
 
+## First time / Already have an account
+
+- First time: [Check whether PikPak fits your task](https://appguideplus.com/en/pikpak/?utm_source=github#fit) → [check new-account invitation conditions](https://appguideplus.com/en/pikpak-free-premium/?utm_source=github).
+- Already have an account: sign in to that account and [test saving, playing and downloading one file](https://appguideplus.com/en/pikpak-guide/?utm_source=github#save).
+
 **CLI and AI setup:** Follow the [CLI and AI guide](https://appguideplus.com/en/pikpak/cli-ai/?utm_source=github) for official installation and sign-in, the differences between MCP and skills, and revoking access.
 
 - **Register with a referral:** `pikpak auth register --affiliate 79099748`
@@ -127,7 +132,7 @@ Open its location from the browser’s download history or PikPak’s download l
 
 ## Invitation codes and Referral Pro
 
-Invitation codes concern new-user Premium benefits. Referral Pro is the cash-reward program for people who recommend PikPak.
+Manual invitation-code entry is for new accounts within 12 hours of registration; it is different from a paid redemption code. Linking a referral does not guarantee free Premium: check your account for the actual benefits and duration. Referral Pro is the cash-reward program for people who recommend PikPak.
 
 - [PikPak invitation code and free Premium](https://appguideplus.com/en/pikpak-free-premium/?utm_source=github)
 - [PikPak Referral Pro: rewards and withdrawals](https://appguideplus.com/en/pikpak-referral-pro/?utm_source=github)

@@ -8,6 +8,11 @@ AppGuide+가 정리한 독립적인 이용 안내이며, PikPak 공식 고객지
 
 [한국어](README.ko.md) · [English](README.en.md) · [日本語](README.ja.md) · [简体中文](README.zh-hans.md) · [繁體中文（台灣）](README.zh-hant.md) · [繁體中文（香港）](README.zh-hk.md)
 
+## 처음이라면 / 기존 계정이 있다면
+
+- 처음이라면: [맞는 용도인지 확인](https://appguideplus.com/ko/pikpak/?utm_source=github#fit) → [신규 계정의 초대 조건](https://appguideplus.com/ko/pikpak-free-premium/?utm_source=github) 순서로 보세요.
+- 기존 계정이 있다면: 같은 계정으로 로그인하고 [파일 하나 저장·재생·다운로드](https://appguideplus.com/ko/pikpak-guide/?utm_source=github#save)부터 시험하세요.
+
 ## 필요한 안내 바로 찾기
 
 [로그인·인증 메일](https://appguideplus.com/ko/pikpak/login/?utm_source=github) · [Windows 드라이브 연결](https://appguideplus.com/ko/pikpak/windows-drive/?utm_source=github) · [만료 후 파일 보관](https://appguideplus.com/ko/pikpak/expiry/?utm_source=github) · [요금·자동 갱신](https://appguideplus.com/ko/pikpak/premium-purchase/?utm_source=github) · [약관·개인정보](https://appguideplus.com/ko/pikpak/terms-and-privacy/?utm_source=github)
@@ -121,7 +126,7 @@ SD 카드 조건 확인: 2026-09-30. 클라우드 저장 완료와 기기 다운
 
 ## 초대코드 입력과 혜택 확인
 
-초대코드 **79099748**의 입력 위치와 신규 계정 적용 조건은 [초대 혜택 안내](https://appguideplus.com/ko/pikpak-free-premium/?utm_source=github)에서 확인하세요. 실제 적용 여부와 기간은 PikPak 계정 화면을 기준으로 보세요.
+초대코드 **79099748**의 입력 위치와 조건은 [초대 혜택 안내](https://appguideplus.com/ko/pikpak-free-premium/?utm_source=github)에서 확인하세요. 수동 입력은 신규 계정 등록 후 12시간 이내이며, 유료로 구매한 교환코드와는 다릅니다. 초대 관계 연결이 무료 Premium 지급을 보장하지는 않습니다. 실제 혜택과 기간은 계정 화면에서 확인하세요.
 
 [화면과 함께 보는 전체 사용법](https://appguideplus.com/ko/pikpak-guide/?utm_source=github) · [AppGuide+ 앱별 안내](https://appguideplus.com/ko/apps/?utm_source=github)
 

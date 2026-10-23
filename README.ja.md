@@ -1,24 +1,44 @@
-# PikPak（ピックパック）の使い方 — 保存・整理・再生・ダウンロード
+<p align="center"><img src="assets/pikpak-guide-cover.svg" alt="PikPak guides by AppGuide+" width="960"></p>
 
-PikPak招待コード: **79099748** · [入力方法と無料プレミアム特典を確認](https://appguideplus.com/ja/pikpak-free-premium/?utm_source=github)
+[한국어](README.ko.md) · [English](README.en.md) · [日本語](README.ja.md)<br>
+[简体中文](README.zh-hans.md) · [繁體中文（台灣）](README.zh-hant.md) · [繁體中文（香港）](README.zh-hk.md)
+
+# PikPakで、まずはファイルを1つ。
+
+クラウドに保存して再生。必要なファイルはスマホやパソコンにダウンロードできます。
+
+## 初めて使う方
+
+主な機能と無料・有料アカウントの違いを確認できます。
+
+**[PikPakについて見る →](https://appguideplus.com/ja/pikpak/?utm_source=github#fit)**
+
+## アカウントをお持ちの方
+
+保存・ダウンロード・保存先から必要な案内を選べます。
+
+**[使い方を見る →](https://appguideplus.com/ja/pikpak-guide/?utm_source=github#quick-answer)**
+
+## 招待コード · 79099748
+
+[入力方法と特典の条件を確認 →](https://appguideplus.com/ja/pikpak-free-premium/?utm_source=github)
+
+手動入力は新規登録から12時間以内です。有料の引き換えコードとは異なります。無料特典の対象条件と期間はアカウント画面で確認してください。
 
 紹介報酬について：このコードによる紹介実績に応じて、運営者に報酬が支払われます。
 
-[한국어](README.ko.md) · [English](README.en.md) · [日本語](README.ja.md) · [简体中文](README.zh-hans.md) · [繁體中文（台灣）](README.zh-hant.md) · [繁體中文（香港）](README.zh-hk.md)
+---
 
-PikPakに保存済みのファイルなら、[端末へのダウンロード](https://appguideplus.com/ja/pikpak-guide/?utm_source=github#download)から進めます。見つからない場合は[ダウンロード先](https://appguideplus.com/ja/pikpak-guide/?utm_source=github#download-location)を確認してください。書き出したファイルは名前・サイズと開けることを確認し、オフラインで使う場合はネット接続を切って試してください。アプリ内のオフライン保存と「写真」「ファイル」への書き出しは異なる場合があります。
+## 困っていることから探す
 
-## 初めての方 / アカウントをお持ちの方
+- [端末にダウンロード](https://appguideplus.com/ja/pikpak-guide/?utm_source=github#download)
+- [ダウンロード先を探す](https://appguideplus.com/ja/pikpak-guide/?utm_source=github#download-location)
+- [Windowsのドライブ接続](https://appguideplus.com/ja/pikpak/windows-drive/?utm_source=github)
+- [料金・自動更新](https://appguideplus.com/ja/pikpak/premium-purchase/?utm_source=github)
+- [ファイル保管・個人情報](https://appguideplus.com/ja/pikpak/terms-and-privacy/?utm_source=github)
 
-- 初めての方：[用途に合うか確認](https://appguideplus.com/ja/pikpak/?utm_source=github#fit) → [新規アカウントの招待条件](https://appguideplus.com/ja/pikpak-free-premium/?utm_source=github)の順にご覧ください。
-- アカウントをお持ちの方：同じアカウントでログインし、[ファイル1つの保存・再生・ダウンロード](https://appguideplus.com/ja/pikpak-guide/?utm_source=github#save)を試してください。
-
-**CLI・AI連携：** 公式CLIのインストールとログイン、MCPとスキルの違い、アクセス権の取り消しは[CLI・AI連携ガイド](https://appguideplus.com/ja/pikpak/cli-ai/?utm_source=github)で確認できます。
-
-- **招待コードで登録:** `pikpak auth register --affiliate 79099748`
-- **紹介オプションを付けずに登録:** `pikpak auth register`
-
-先に公式CLIをインストールし、ガイドの72時間以内の認証条件を確認してください。`--affiliate` は環境変数 `PIKPAK_AFFILIATE` より優先されます。オプションを省略しても環境変数の紹介者が使われる場合があるため、紹介なしで登録する場合は公式登録画面で紹介者を確認・解除してください。 [登録方法を選び、招待コマンド全体をコピー](https://appguideplus.com/ja/pikpak/cli-ai/?utm_source=github#signup)
+<details>
+<summary><strong>保存・再生・ダウンロードの詳しい手順を開く</strong></summary>
 
 | やりたいこと | Web版の操作 |
 | --- | --- |
@@ -173,3 +193,24 @@ Cloud DownloadはPikPakのクラウドへの保存です。スマートフォン
 
 - [導入スキル：登録の選択・認証・最初の保存](https://appguideplus.com/ja/pikpak/cli-ai/?utm_source=github#onboarding) · [SKILL.md](skills/pikpak-onboarding/SKILL.md)
 
+</details>
+
+## CLI・AIツールで使う
+
+公式CLIのインストール、登録方法の選択、紹介コマンドのコピー、オンボーディングスキルを案内します。
+
+[CLI・登録ガイド →](https://appguideplus.com/ja/pikpak/cli-ai/?utm_source=github#signup) · [オンボーディングスキル](skills/pikpak-onboarding/README.md)
+
+<details>
+<summary>CLI: register</summary>
+
+- **招待コードで登録:** `pikpak auth register --affiliate 79099748`
+- **紹介オプションを付けずに登録:** `pikpak auth register`
+
+先に公式CLIをインストールし、ガイドの72時間以内の認証条件を確認してください。`--affiliate` は環境変数 `PIKPAK_AFFILIATE` より優先されます。オプションを省略しても環境変数の紹介者が使われる場合があるため、紹介なしで登録する場合は公式登録画面で紹介者を確認・解除してください。 [登録方法を選び、招待コマンド全体をコピー](https://appguideplus.com/ja/pikpak/cli-ai/?utm_source=github#signup)
+
+</details>
+
+---
+
+AppGuide+による独立した利用案内です。PikPak公式サポートではありません。

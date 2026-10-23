@@ -1,24 +1,44 @@
-# PikPak 使用指南 — 儲存、整理、播放及下載
+<p align="center"><img src="assets/pikpak-guide-cover.svg" alt="PikPak guides by AppGuide+" width="960"></p>
 
-PikPak 邀請碼： **79099748** · [查看輸入方法與免費高級會員優惠](https://appguideplus.com/zh-hk/pikpak-free-premium/?utm_source=github)
+[한국어](README.ko.md) · [English](README.en.md) · [日本語](README.ja.md)<br>
+[简体中文](README.zh-hans.md) · [繁體中文（台灣）](README.zh-hant.md) · [繁體中文（香港）](README.zh-hk.md)
+
+# 由一個檔案開始用 PikPak。
+
+將檔案儲存到雲端，直接播放，有需要時再下載到手機或電腦。
+
+## 第一次使用？
+
+先了解主要功能，以及免費和付費帳戶的分別。
+
+**[認識 PikPak →](https://appguideplus.com/zh-hk/pikpak/?utm_source=github#fit)**
+
+## 已經有帳戶？
+
+按需要選擇儲存、下載或查找檔案位置。
+
+**[查看使用指南 →](https://appguideplus.com/zh-hk/pikpak-guide/?utm_source=github#quick-answer)**
+
+## 邀請碼 · 79099748
+
+[查看輸入方法與優惠條件 →](https://appguideplus.com/zh-hk/pikpak-free-premium/?utm_source=github)
+
+手動輸入須在新帳戶註冊後12小時內完成。這不是付費兌換碼；免費優惠的資格與期限請以帳戶畫面為準。
 
 推廣說明：透過此邀請碼完成符合條件的推薦時，營運者會獲得佣金。
 
-[한국어](README.ko.md) · [English](README.en.md) · [日本語](README.ja.md) · [简体中文](README.zh-hans.md) · [繁體中文（台灣）](README.zh-hant.md) · [繁體中文（香港）](README.zh-hk.md)
+---
 
-檔案已經儲存到 PikPak？直接查看[下載到手機或電腦](https://appguideplus.com/zh-hk/pikpak-guide/?utm_source=github#download)。找不到已下載的檔案時，查看[下載位置](https://appguideplus.com/zh-hk/pikpak-guide/?utm_source=github#download-location)。匯出後請確認檔名、大小及能否開啟；如需離線使用，再關閉網絡連線試一次。應用程式內的離線儲存與匯出至「相片」「檔案」可能不同。
+## 按問題查找
 
-## 首次使用 / 已有帳戶
+- [下載到手機或電腦](https://appguideplus.com/zh-hk/pikpak-guide/?utm_source=github#download)
+- [查找下載位置](https://appguideplus.com/zh-hk/pikpak-guide/?utm_source=github#download-location)
+- [連接 Windows 磁碟機](https://appguideplus.com/zh-hk/pikpak/windows-drive/?utm_source=github)
+- [價格與自動續訂](https://appguideplus.com/zh-hk/pikpak/premium-purchase/?utm_source=github)
+- [檔案保留與私隱](https://appguideplus.com/zh-hk/pikpak/terms-and-privacy/?utm_source=github)
 
-- 首次使用：[確認是否適合你的用途](https://appguideplus.com/zh-hk/pikpak/?utm_source=github#fit) → [查看新帳戶邀請條件](https://appguideplus.com/zh-hk/pikpak-free-premium/?utm_source=github)。
-- 已有帳戶：登入原有帳戶，先[試存一個檔案並播放、下載](https://appguideplus.com/zh-hk/pikpak-guide/?utm_source=github#save)。
-
-**CLI 與 AI 連接：** [CLI 與 AI 指南](https://appguideplus.com/zh-hk/pikpak/cli-ai/?utm_source=github)介紹官方 CLI 安裝及登入、MCP 與技能的分別，以及如何撤銷存取權限。
-
-- **使用邀請碼註冊:** `pikpak auth register --affiliate 79099748`
-- **不指定推薦選項註冊:** `pikpak auth register`
-
-請先安裝官方 CLI，並查看指南中的 72 小時驗證要求。`--affiliate` 優先於環境變數 `PIKPAK_AFFILIATE`。省略此選項仍可能使用環境變數中的推薦人；如不想使用推薦，請在官方註冊頁面確認並移除推薦人。 [選擇註冊方式並複製完整推薦指令](https://appguideplus.com/zh-hk/pikpak/cli-ai/?utm_source=github#signup)
+<details>
+<summary><strong>展開儲存、播放及下載的詳細步驟</strong></summary>
 
 | 操作 | 網頁選單 |
 | --- | --- |
@@ -147,3 +167,24 @@ AppGuide+ 是獨立指南網站。
 
 - [新手技能：註冊選擇、驗證及首次儲存](https://appguideplus.com/zh-hk/pikpak/cli-ai/?utm_source=github#onboarding) · [SKILL.md](skills/pikpak-onboarding/SKILL.md)
 
+</details>
+
+## 配合 CLI 和 AI 工具使用
+
+查看官方 CLI 安裝、註冊方式選擇、推薦指令複製及入門技能。
+
+[CLI 與註冊指南 →](https://appguideplus.com/zh-hk/pikpak/cli-ai/?utm_source=github#signup) · [入門技能](skills/pikpak-onboarding/README.md)
+
+<details>
+<summary>CLI: register</summary>
+
+- **使用邀請碼註冊:** `pikpak auth register --affiliate 79099748`
+- **不指定推薦選項註冊:** `pikpak auth register`
+
+請先安裝官方 CLI，並查看指南中的 72 小時驗證要求。`--affiliate` 優先於環境變數 `PIKPAK_AFFILIATE`。省略此選項仍可能使用環境變數中的推薦人；如不想使用推薦，請在官方註冊頁面確認並移除推薦人。 [選擇註冊方式並複製完整推薦指令](https://appguideplus.com/zh-hk/pikpak/cli-ai/?utm_source=github#signup)
+
+</details>
+
+---
+
+由 AppGuide+ 獨立整理，並非 PikPak 官方客服。

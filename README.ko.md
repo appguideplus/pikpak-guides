@@ -8,6 +8,8 @@ AppGuide+가 정리한 독립적인 이용 안내이며, PikPak 공식 고객지
 
 [한국어](README.ko.md) · [English](README.en.md) · [日本語](README.ja.md) · [简体中文](README.zh-hans.md) · [繁體中文（台灣）](README.zh-hant.md) · [繁體中文（香港）](README.zh-hk.md)
 
+이미 PikPak에 있는 파일은 [기기로 다운로드](https://appguideplus.com/ko/pikpak-guide/?utm_source=github#download)부터 시작하세요. 내려받은 파일을 못 찾겠다면 [기기별 저장 위치](https://appguideplus.com/ko/pikpak-guide/?utm_source=github#download-location)를 확인하세요. 내보낸 파일은 파일명·크기와 열기 결과를 확인하고, 오프라인으로 쓸 때는 인터넷 연결을 끈 상태에서도 열어보세요. 앱 안의 오프라인 저장과 사진·파일 앱으로 내보내기는 다를 수 있습니다.
+
 ## 처음이라면 / 기존 계정이 있다면
 
 - 처음이라면: [맞는 용도인지 확인](https://appguideplus.com/ko/pikpak/?utm_source=github#fit) → [신규 계정의 초대 조건](https://appguideplus.com/ko/pikpak-free-premium/?utm_source=github) 순서로 보세요.

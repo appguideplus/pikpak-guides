@@ -6,6 +6,8 @@ PikPak 邀請碼： **79099748** · [查看輸入方式與免費進階會員優�
 
 [한국어](README.ko.md) · [English](README.en.md) · [日本語](README.ja.md) · [简体中文](README.zh-hans.md) · [繁體中文（台灣）](README.zh-hant.md) · [繁體中文（香港）](README.zh-hk.md)
 
+檔案已經存到 PikPak？直接查看[下載到手機或電腦](https://appguideplus.com/zh-hant/pikpak-guide/?utm_source=github#download)。找不到已下載的檔案時，查看[下載位置](https://appguideplus.com/zh-hant/pikpak-guide/?utm_source=github#download-location)。匯出後請確認檔名、大小及能否開啟；需要離線使用時，再關閉網路連線試一次。App 內離線儲存與匯出至「照片」「檔案」可能不同。
+
 ## 第一次使用 / 已有帳號
 
 - 第一次使用：[確認是否適合你的用途](https://appguideplus.com/zh-hant/pikpak/?utm_source=github#fit) → [查看新帳號邀請條件](https://appguideplus.com/zh-hant/pikpak-free-premium/?utm_source=github)。

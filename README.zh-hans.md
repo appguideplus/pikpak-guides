@@ -1,24 +1,44 @@
-# PikPak 网盘使用指南 — 保存、整理、播放与下载
+<p align="center"><img src="assets/pikpak-guide-cover.svg" alt="PikPak guides by AppGuide+" width="960"></p>
 
-PikPak 邀请码： **79099748** · [查看输入方法与免费高级会员福利](https://appguideplus.com/zh-hans/pikpak-free-premium/?utm_source=github)
+[한국어](README.ko.md) · [English](README.en.md) · [日本語](README.ja.md)<br>
+[简体中文](README.zh-hans.md) · [繁體中文（台灣）](README.zh-hant.md) · [繁體中文（香港）](README.zh-hk.md)
+
+# 从一个文件开始用 PikPak。
+
+把文件存到云端，直接播放，需要时再下载到手机或电脑。
+
+## 第一次使用？
+
+先了解主要功能，以及免费和付费账号的区别。
+
+**[了解 PikPak →](https://appguideplus.com/zh-hans/pikpak/?utm_source=github#fit)**
+
+## 已经有账号？
+
+按需要选择保存、下载或查找文件位置。
+
+**[查看使用指南 →](https://appguideplus.com/zh-hans/pikpak-guide/?utm_source=github#quick-answer)**
+
+## 邀请码 · 79099748
+
+[查看输入方法与福利条件 →](https://appguideplus.com/zh-hans/pikpak-free-premium/?utm_source=github)
+
+手动输入须在新账号注册后12小时内完成。这不是付费兑换码；免费福利的资格和时长请以账号页面为准。
 
 推广说明：通过此邀请码产生符合条件的推荐时，运营者会获得佣金。
 
-[한국어](README.ko.md) · [English](README.en.md) · [日本語](README.ja.md) · [简体中文](README.zh-hans.md) · [繁體中文（台灣）](README.zh-hant.md) · [繁體中文（香港）](README.zh-hk.md)
+---
 
-文件已经存到 PikPak？直接查看[下载到设备](https://appguideplus.com/zh-hans/pikpak-guide/?utm_source=github#download)。找不到已下载的文件时，查看[下载位置](https://appguideplus.com/zh-hans/pikpak-guide/?utm_source=github#download-location)。导出后请确认文件名、大小及能否打开；需要离线使用时，再关闭网络连接试一次。应用内离线保存与导出到“照片”“文件”可能不同。
+## 按问题查找
 
-## 首次使用 / 已有账号
+- [下载到设备](https://appguideplus.com/zh-hans/pikpak-guide/?utm_source=github#download)
+- [查找下载位置](https://appguideplus.com/zh-hans/pikpak-guide/?utm_source=github#download-location)
+- [连接 Windows 驱动器](https://appguideplus.com/zh-hans/pikpak/windows-drive/?utm_source=github)
+- [价格与自动续费](https://appguideplus.com/zh-hans/pikpak/premium-purchase/?utm_source=github)
+- [文件保留与隐私](https://appguideplus.com/zh-hans/pikpak/terms-and-privacy/?utm_source=github)
 
-- 首次使用：[确认是否适合你的用途](https://appguideplus.com/zh-hans/pikpak/?utm_source=github#fit) → [查看新账号邀请条件](https://appguideplus.com/zh-hans/pikpak-free-premium/?utm_source=github)。
-- 已有账号：登录原账号，先[试存一个文件并播放、下载](https://appguideplus.com/zh-hans/pikpak-guide/?utm_source=github#save)。
-
-**CLI 与 AI 连接：** [CLI 与 AI 指南](https://appguideplus.com/zh-hans/pikpak/cli-ai/?utm_source=github)介绍官方 CLI 的安装和登录、MCP 与技能的区别，以及如何撤销访问权限。
-
-- **使用邀请码注册:** `pikpak auth register --affiliate 79099748`
-- **不指定推荐选项注册:** `pikpak auth register`
-
-请先安装官方 CLI，并查看指南中的 72 小时验证要求。`--affiliate` 优先于环境变量 `PIKPAK_AFFILIATE`。省略该选项仍可能使用环境变量中的推荐人；如不希望使用推荐，请在官方注册页面确认并移除推荐人。 [选择注册方式并复制完整推荐命令](https://appguideplus.com/zh-hans/pikpak/cli-ai/?utm_source=github#signup)
+<details>
+<summary><strong>展开保存、播放和下载的详细步骤</strong></summary>
 
 | 操作 | 网页菜单 |
 | --- | --- |
@@ -147,3 +167,24 @@ AppGuide+ 是独立指南网站。
 
 - [新手技能：注册选择、验证与首次保存](https://appguideplus.com/zh-hans/pikpak/cli-ai/?utm_source=github#onboarding) · [SKILL.md](skills/pikpak-onboarding/SKILL.md)
 
+</details>
+
+## 配合 CLI 和 AI 工具使用
+
+查看官方 CLI 安装、注册方式选择、推荐命令复制和入门技能。
+
+[CLI 与注册指南 →](https://appguideplus.com/zh-hans/pikpak/cli-ai/?utm_source=github#signup) · [入门技能](skills/pikpak-onboarding/README.md)
+
+<details>
+<summary>CLI: register</summary>
+
+- **使用邀请码注册:** `pikpak auth register --affiliate 79099748`
+- **不指定推荐选项注册:** `pikpak auth register`
+
+请先安装官方 CLI，并查看指南中的 72 小时验证要求。`--affiliate` 优先于环境变量 `PIKPAK_AFFILIATE`。省略该选项仍可能使用环境变量中的推荐人；如不希望使用推荐，请在官方注册页面确认并移除推荐人。 [选择注册方式并复制完整推荐命令](https://appguideplus.com/zh-hans/pikpak/cli-ai/?utm_source=github#signup)
+
+</details>
+
+---
+
+由 AppGuide+ 独立整理，不是 PikPak 官方客服。

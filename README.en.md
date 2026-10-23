@@ -1,24 +1,44 @@
-# How to use PikPak — Save, organize, play and download files
+<p align="center"><img src="assets/pikpak-guide-cover.svg" alt="PikPak guides by AppGuide+" width="960"></p>
 
-PikPak invitation code: **79099748** · [Where to enter it and check free Premium benefits](https://appguideplus.com/en/pikpak-free-premium/?utm_source=github)
+[한국어](README.ko.md) · [English](README.en.md) · [日本語](README.ja.md)<br>
+[简体中文](README.zh-hans.md) · [繁體中文（台灣）](README.zh-hant.md) · [繁體中文（香港）](README.zh-hk.md)
+
+# Start with one file in PikPak.
+
+Save a file to the cloud, play it, and download a copy to your phone or computer when you need it.
+
+## New to PikPak?
+
+See what it does and how free and paid accounts differ.
+
+**[Explore PikPak →](https://appguideplus.com/en/pikpak/?utm_source=github#fit)**
+
+## Already have an account?
+
+Choose saving, downloading or finding your files.
+
+**[Open the guide →](https://appguideplus.com/en/pikpak-guide/?utm_source=github#quick-answer)**
+
+## Invitation code · 79099748
+
+[Where to enter it and check benefits →](https://appguideplus.com/en/pikpak-free-premium/?utm_source=github)
+
+Manual entry is available within 12 hours of new-account registration. This is not a paid redemption code. Check your account for benefit eligibility and duration.
 
 Referral disclosure: the operator earns commissions on qualifying referrals through this code.
 
-[한국어](README.ko.md) · [English](README.en.md) · [日本語](README.ja.md) · [简体中文](README.zh-hans.md) · [繁體中文（台灣）](README.zh-hant.md) · [繁體中文（香港）](README.zh-hk.md)
+---
 
-Already saved the file to PikPak? Start with [downloading to your device](https://appguideplus.com/en/pikpak-guide/?utm_source=github#download). If you cannot find it, check [where files are saved](https://appguideplus.com/en/pikpak-guide/?utm_source=github#download-location). For an exported file, check its name, size and whether it opens. If you need it offline, also try opening it without an internet connection. In-app offline storage can differ from exporting to Photos or Files.
+## Find the help you need
 
-## First time / Already have an account
+- [Download to your device](https://appguideplus.com/en/pikpak-guide/?utm_source=github#download)
+- [Find downloaded files](https://appguideplus.com/en/pikpak-guide/?utm_source=github#download-location)
+- [Connect a Windows drive](https://appguideplus.com/en/pikpak/windows-drive/?utm_source=github)
+- [Plans and renewal](https://appguideplus.com/en/pikpak/premium-purchase/?utm_source=github)
+- [Storage and privacy](https://appguideplus.com/en/pikpak/terms-and-privacy/?utm_source=github)
 
-- First time: [Check whether PikPak fits your task](https://appguideplus.com/en/pikpak/?utm_source=github#fit) → [check new-account invitation conditions](https://appguideplus.com/en/pikpak-free-premium/?utm_source=github).
-- Already have an account: sign in to that account and [test saving, playing and downloading one file](https://appguideplus.com/en/pikpak-guide/?utm_source=github#save).
-
-**CLI and AI setup:** Follow the [CLI and AI guide](https://appguideplus.com/en/pikpak/cli-ai/?utm_source=github) for official installation and sign-in, the differences between MCP and skills, and revoking access.
-
-- **Register with a referral:** `pikpak auth register --affiliate 79099748`
-- **Register without the referral flag:** `pikpak auth register`
-
-Install the official CLI first and check the 72-hour verification requirement in the guide. `--affiliate` takes precedence over `PIKPAK_AFFILIATE`. Omitting the flag can still use that environment variable, so review and remove the referrer on the official signup page if you want no referral. [Choose signup and copy the full referral command](https://appguideplus.com/en/pikpak/cli-ai/?utm_source=github#signup)
+<details>
+<summary><strong>Expand the full save, play and download guide</strong></summary>
 
 | Task | Web action |
 | --- | --- |
@@ -147,3 +167,24 @@ Content reviewed and GitHub edition edited: 2026-09-14. Check the official Help 
 
 - [Onboarding skill: signup choices, verification and your first file](https://appguideplus.com/en/pikpak/cli-ai/?utm_source=github#onboarding) · [SKILL.md](skills/pikpak-onboarding/SKILL.md)
 
+</details>
+
+## Use PikPak with CLI and AI tools
+
+Official CLI installation, signup choices, referral-command copying and the onboarding skill.
+
+[CLI and signup guide →](https://appguideplus.com/en/pikpak/cli-ai/?utm_source=github#signup) · [Onboarding skill](skills/pikpak-onboarding/README.md)
+
+<details>
+<summary>CLI: register</summary>
+
+- **Register with a referral:** `pikpak auth register --affiliate 79099748`
+- **Register without the referral flag:** `pikpak auth register`
+
+Install the official CLI first and check the 72-hour verification requirement in the guide. `--affiliate` takes precedence over `PIKPAK_AFFILIATE`. Omitting the flag can still use that environment variable, so review and remove the referrer on the official signup page if you want no referral. [Choose signup and copy the full referral command](https://appguideplus.com/en/pikpak/cli-ai/?utm_source=github#signup)
+
+</details>
+
+---
+
+Independent guidance by AppGuide+. Not official PikPak customer support.

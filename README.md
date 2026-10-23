@@ -24,6 +24,11 @@ Quick references for saving files to PikPak, organizing folders, playing videos 
 - [繁體中文（香港）](README.zh-hk.md)
 
 
+## 처음이라면 / Already have an account?
+
+- 처음: [용도 확인](https://appguideplus.com/ko/pikpak/?utm_source=github#fit) → [신규 초대 조건](https://appguideplus.com/ko/pikpak-free-premium/?utm_source=github). 기존 계정: 로그인 후 [첫 파일 시험](https://appguideplus.com/ko/pikpak-guide/?utm_source=github#save).
+- First time: [Check fit](https://appguideplus.com/en/pikpak/?utm_source=github#fit) → [new-account invitation conditions](https://appguideplus.com/en/pikpak-free-premium/?utm_source=github). Existing account: sign in and [test one file](https://appguideplus.com/en/pikpak-guide/?utm_source=github#save).
+
 ## 한국어 바로가기
 
 - [파일 저장·재생·다운로드 사용법](https://appguideplus.com/ko/pikpak-guide/?utm_source=github)
@@ -71,7 +76,9 @@ The iOS app cannot add download links directly; add them in the web drive, then 
 ## Invitation codes and Referral Pro
 
 
-Invitation codes concern new-user Premium benefits. Referral Pro is the cash-reward program for people who recommend PikPak.
+초대코드 수동 입력은 신규 등록 후 12시간 이내이며 유료 교환코드와 다릅니다. 초대 관계 연결만으로 무료 Premium이 보장되지는 않으므로 계정의 실제 혜택을 확인하세요.
+
+Manual invitation-code entry is for new accounts within 12 hours of registration, and differs from paid redemption. A linked referral does not guarantee free Premium; check your account. Referral Pro is the cash-reward program for people who recommend PikPak.
 
 
 - [PikPak invitation code and free Premium](https://appguideplus.com/en/pikpak-free-premium/?utm_source=github)

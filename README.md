@@ -24,6 +24,8 @@ Quick references for saving files to PikPak, organizing folders, playing videos 
 - [繁體中文（香港）](README.zh-hk.md)
 
 
+이미 클라우드에 저장한 파일이라면 [기기로 다운로드](https://appguideplus.com/ko/pikpak-guide/?utm_source=github#download) 또는 [저장 위치 확인](https://appguideplus.com/ko/pikpak-guide/?utm_source=github#download-location)부터 보세요. / Already saved to the cloud? Go to [device download](https://appguideplus.com/en/pikpak-guide/?utm_source=github#download) or [find the file](https://appguideplus.com/en/pikpak-guide/?utm_source=github#download-location).
+
 ## 처음이라면 / Already have an account?
 
 - 처음: [용도 확인](https://appguideplus.com/ko/pikpak/?utm_source=github#fit) → [신규 초대 조건](https://appguideplus.com/ko/pikpak-free-premium/?utm_source=github). 기존 계정: 로그인 후 [첫 파일 시험](https://appguideplus.com/ko/pikpak-guide/?utm_source=github#save).

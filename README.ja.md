@@ -6,6 +6,11 @@ PikPak招待コード: **79099748** · [入力方法と無料プレミアム特�
 
 [한국어](README.ko.md) · [English](README.en.md) · [日本語](README.ja.md) · [简体中文](README.zh-hans.md) · [繁體中文（台灣）](README.zh-hant.md) · [繁體中文（香港）](README.zh-hk.md)
 
+## 初めての方 / アカウントをお持ちの方
+
+- 初めての方：[用途に合うか確認](https://appguideplus.com/ja/pikpak/?utm_source=github#fit) → [新規アカウントの招待条件](https://appguideplus.com/ja/pikpak-free-premium/?utm_source=github)の順にご覧ください。
+- アカウントをお持ちの方：同じアカウントでログインし、[ファイル1つの保存・再生・ダウンロード](https://appguideplus.com/ja/pikpak-guide/?utm_source=github#save)を試してください。
+
 **CLI・AI連携：** 公式CLIのインストールとログイン、MCPとスキルの違い、アクセス権の取り消しは[CLI・AI連携ガイド](https://appguideplus.com/ja/pikpak/cli-ai/?utm_source=github)で確認できます。
 
 - **招待コードで登録:** `pikpak auth register --affiliate 79099748`
@@ -137,7 +142,7 @@ Web版とアプリのアカウントが同じか、保存タスクが完了し�
 
 ## 招待コードとReferral Pro
 
-招待コードは新規登録者向けのプレミアム特典、Referral ProはPikPakを紹介する人向けの現金報酬プログラムです。
+招待コードの手動入力は新規アカウントの登録後12時間以内で、有料で購入した引き換えコードとは異なります。招待関係の紐付けだけでは無料Premiumの付与は保証されません。実際の特典と期間はアカウント画面で確認してください。Referral Proは紹介者向けの現金報酬プログラムです。
 
 - [PikPak招待コード・無料プレミアムの受け取り方](https://appguideplus.com/ja/pikpak-free-premium/?utm_source=github)
 - [PikPak Referral Proの報酬・出金ガイド](https://appguideplus.com/ja/pikpak-referral-pro/?utm_source=github)

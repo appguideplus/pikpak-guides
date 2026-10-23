@@ -6,6 +6,8 @@ Referral disclosure: the operator earns commissions on qualifying referrals thro
 
 [한국어](README.ko.md) · [English](README.en.md) · [日本語](README.ja.md) · [简体中文](README.zh-hans.md) · [繁體中文（台灣）](README.zh-hant.md) · [繁體中文（香港）](README.zh-hk.md)
 
+Already saved the file to PikPak? Start with [downloading to your device](https://appguideplus.com/en/pikpak-guide/?utm_source=github#download). If you cannot find it, check [where files are saved](https://appguideplus.com/en/pikpak-guide/?utm_source=github#download-location). For an exported file, check its name, size and whether it opens. If you need it offline, also try opening it without an internet connection. In-app offline storage can differ from exporting to Photos or Files.
+
 ## First time / Already have an account
 
 - First time: [Check whether PikPak fits your task](https://appguideplus.com/en/pikpak/?utm_source=github#fit) → [check new-account invitation conditions](https://appguideplus.com/en/pikpak-free-premium/?utm_source=github).

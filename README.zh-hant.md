@@ -6,6 +6,11 @@ PikPak 邀請碼： **79099748** · [查看輸入方式與免費進階會員優�
 
 [한국어](README.ko.md) · [English](README.en.md) · [日本語](README.ja.md) · [简体中文](README.zh-hans.md) · [繁體中文（台灣）](README.zh-hant.md) · [繁體中文（香港）](README.zh-hk.md)
 
+## 第一次使用 / 已有帳號
+
+- 第一次使用：[確認是否適合你的用途](https://appguideplus.com/zh-hant/pikpak/?utm_source=github#fit) → [查看新帳號邀請條件](https://appguideplus.com/zh-hant/pikpak-free-premium/?utm_source=github)。
+- 已有帳號：登入原帳號，先[試存一個檔案並播放、下載](https://appguideplus.com/zh-hant/pikpak-guide/?utm_source=github#save)。
+
 **CLI 與 AI 連接：** [CLI 與 AI 教學](https://appguideplus.com/zh-hant/pikpak/cli-ai/?utm_source=github)介紹官方 CLI 安裝與登入、MCP 和技能的差別，以及如何撤銷存取權限。
 
 - **使用邀請碼註冊:** `pikpak auth register --affiliate 79099748`
@@ -137,7 +142,7 @@ App 內離線儲存與匯出到系統「照片」「檔案」可能是不同功�
 
 ## 邀請碼與 Referral Pro
 
-邀請碼提供新用戶的進階會員優惠；Referral Pro 則是提供給 PikPak 推薦者的現金獎勵計畫。
+手動輸入邀請碼須在新帳號註冊後 12 小時內完成，與付費購買的兌換碼不同。綁定邀請關係不保證獲得免費 Premium；實際優惠與期限請查看帳號頁面。Referral Pro 是提供給推薦者的現金獎勵計畫。
 
 - [PikPak 邀請碼與免費進階會員領取教學](https://appguideplus.com/zh-hant/pikpak-free-premium/?utm_source=github)
 - [PikPak Referral Pro 收益與提領教學](https://appguideplus.com/zh-hant/pikpak-referral-pro/?utm_source=github)

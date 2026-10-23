@@ -6,6 +6,8 @@ PikPak招待コード: **79099748** · [入力方法と無料プレミアム特�
 
 [한국어](README.ko.md) · [English](README.en.md) · [日本語](README.ja.md) · [简体中文](README.zh-hans.md) · [繁體中文（台灣）](README.zh-hant.md) · [繁體中文（香港）](README.zh-hk.md)
 
+PikPakに保存済みのファイルなら、[端末へのダウンロード](https://appguideplus.com/ja/pikpak-guide/?utm_source=github#download)から進めます。見つからない場合は[ダウンロード先](https://appguideplus.com/ja/pikpak-guide/?utm_source=github#download-location)を確認してください。書き出したファイルは名前・サイズと開けることを確認し、オフラインで使う場合はネット接続を切って試してください。アプリ内のオフライン保存と「写真」「ファイル」への書き出しは異なる場合があります。
+
 ## 初めての方 / アカウントをお持ちの方
 
 - 初めての方：[用途に合うか確認](https://appguideplus.com/ja/pikpak/?utm_source=github#fit) → [新規アカウントの招待条件](https://appguideplus.com/ja/pikpak-free-premium/?utm_source=github)の順にご覧ください。

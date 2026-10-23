@@ -1,101 +1,53 @@
-# 픽팍(PikPak) 사용법 · 초대코드 · 다운로드 가이드
-
+<p align="center"><img src="assets/pikpak-guide-cover.svg" alt="PikPak guides by AppGuide+" width="960"></p>
 
 <a id="pikpak-guides-by-appguide"></a>
 
+# PikPak 가이드 · PikPak guides
 
-픽팍 초대코드 / PikPak invitation code: **79099748** · [입력 방법과 무료 프리미엄 혜택](https://appguideplus.com/ko/pikpak-free-premium/?utm_source=github)
+파일 하나를 저장하고, 재생하고, 내 기기로 내려받기까지.<br>
+Practical guides for saving, playing and downloading your files.
 
+[한국어](README.ko.md) · [English](README.en.md) · [日本語](README.ja.md)<br>
+[简体中文](README.zh-hans.md) · [繁體中文（台灣）](README.zh-hant.md) · [繁體中文（香港）](README.zh-hk.md)
 
-제휴 안내: 이 코드를 통한 추천 실적에 따라 운영자가 수수료를 받습니다.
+## 어디서 시작할까요? · Start here
 
+### 처음이라면 · New to PikPak
 
-파일 저장·정리·재생·기기 다운로드를 안내합니다. 아래에서 사용할 언어를 선택하세요.
+[기능과 무료 이용 알아보기 →](https://appguideplus.com/ko/pikpak/?utm_source=github#fit) · [Explore PikPak →](https://appguideplus.com/en/pikpak/?utm_source=github#fit)
 
+### 이미 계정이 있다면 · Already have an account
 
-Quick references for saving files to PikPak, organizing folders, playing videos and downloading files to your device. Choose your language below.
+[저장·다운로드·파일 위치 찾기 →](https://appguideplus.com/ko/pikpak-guide/?utm_source=github#quick-answer) · [Save, download and find files →](https://appguideplus.com/en/pikpak-guide/?utm_source=github#quick-answer)
 
+### 초대코드 · Invitation code
 
-- [한국어](README.ko.md)
-- [English](README.en.md)
-- [日本語](README.ja.md)
-- [简体中文](README.zh-hans.md)
-- [繁體中文（台灣）](README.zh-hant.md)
-- [繁體中文（香港）](README.zh-hk.md)
+**79099748**
 
+[입력 방법과 혜택 조건 →](https://appguideplus.com/ko/pikpak-free-premium/?utm_source=github) · [How to enter it and check benefits →](https://appguideplus.com/en/pikpak-free-premium/?utm_source=github)
 
-이미 클라우드에 저장한 파일이라면 [기기로 다운로드](https://appguideplus.com/ko/pikpak-guide/?utm_source=github#download) 또는 [저장 위치 확인](https://appguideplus.com/ko/pikpak-guide/?utm_source=github#download-location)부터 보세요. / Already saved to the cloud? Go to [device download](https://appguideplus.com/en/pikpak-guide/?utm_source=github#download) or [find the file](https://appguideplus.com/en/pikpak-guide/?utm_source=github#download-location).
+신규 등록 후 12시간 내 수동 입력할 수 있습니다. 무료 혜택과 기간은 계정에서 확인하세요.<br>
+Manual entry is available within 12 hours of registration. Check eligibility and benefit duration in your account.
 
-## 처음이라면 / Already have an account?
+제휴 안내: 이 코드의 추천 실적에 따라 운영자가 수수료를 받습니다.<br>
+The operator earns commissions on qualifying referrals through this code.
 
-- 처음: [용도 확인](https://appguideplus.com/ko/pikpak/?utm_source=github#fit) → [신규 초대 조건](https://appguideplus.com/ko/pikpak-free-premium/?utm_source=github). 기존 계정: 로그인 후 [첫 파일 시험](https://appguideplus.com/ko/pikpak-guide/?utm_source=github#save).
-- First time: [Check fit](https://appguideplus.com/en/pikpak/?utm_source=github#fit) → [new-account invitation conditions](https://appguideplus.com/en/pikpak-free-premium/?utm_source=github). Existing account: sign in and [test one file](https://appguideplus.com/en/pikpak-guide/?utm_source=github#save).
+---
 
-## 한국어 바로가기
+## CLI · AI
 
-- [파일 저장·재생·다운로드 사용법](https://appguideplus.com/ko/pikpak-guide/?utm_source=github)
-- [윈도우 탐색기에 드라이브 연결하기](https://appguideplus.com/ko/pikpak-guide/?utm_source=github#windows-drive) — 공식 PC 앱, Air Live Drive, WebDAV의 차이와 연결 조건
-- [10TB 용량·전송량과 다른 드라이브 비교](https://appguideplus.com/ko/pikpak/benefits/?utm_source=github)
+[가입 선택·추천 명령 복사](https://appguideplus.com/ko/pikpak/cli-ai/?utm_source=github#signup) · [Signup choices and commands](https://appguideplus.com/en/pikpak/cli-ai/?utm_source=github#signup)
 
-- [CLI·AI 연결: 공식 설치·로그인과 MCP·스킬](https://appguideplus.com/ko/pikpak/cli-ai/?utm_source=github)
+[온보딩 스킬 · Onboarding skill](skills/pikpak-onboarding/README.md)
 
-- **추천코드로 가입:** `pikpak auth register --affiliate 79099748`
-- **추천 옵션 없이 가입:** `pikpak auth register`
+<details>
+<summary>더 많은 안내 · More guides</summary>
 
-먼저 공식 CLI를 설치하고 아래 안내의 72시간 인증 조건을 확인하세요. `--affiliate`는 `PIKPAK_AFFILIATE` 환경변수보다 우선합니다. 옵션을 생략해도 환경변수의 추천인이 적용될 수 있으므로, 추천 없이 가입하려면 공식 가입 화면에서 추천인을 확인·제거하세요. [가입 선택·추천 명령 전체 복사](https://appguideplus.com/ko/pikpak/cli-ai/?utm_source=github#signup)
+- [Windows 드라이브 연결](https://appguideplus.com/ko/pikpak/windows-drive/?utm_source=github) · [Windows drive setup](https://appguideplus.com/en/pikpak/windows-drive/?utm_source=github)
+- [용량·전송량·드라이브 비교](https://appguideplus.com/ko/pikpak/benefits/?utm_source=github) · [Storage and transfer limits](https://appguideplus.com/en/pikpak/benefits/?utm_source=github)
+- [AppGuide+ 전체 앱 목차](https://github.com/appguideplus/app-guides) · [카카오톡 채널](https://pf.kakao.com/_bxkarX)
 
-## Start with the right operation
+</details>
 
-
-| What you want to do | PikPak Web action |
-| --- | --- |
-| Add a magnet link or torrent file to your cloud drive | Cloud Download → Create Now |
-| Upload a file from your device | Upload → Upload Files |
-| Create a folder | Create Folder |
-| Move or rename a file | Right-click → Move or Rename |
-| Play a saved video | Open the video file |
-| Save a local copy | Right-click → Download to Device |
-
-
-Saving to the cloud does not automatically download a file to your phone or computer. Wait for the cloud task to finish before opening or downloading the file.
-
-
-The iOS app cannot add download links directly; add them in the web drive, then open the file in the app using the same account. The web version cannot download a whole folder: download individual files or use a PikPak desktop app.
-
-
-[Read the illustrated guide](https://appguideplus.com/en/pikpak-guide/?utm_source=github) · [Open PikPak Web Drive](https://mypikpak.com/drive/all)
-
-
-## Official help
-
-
-- [Save links and torrent files](https://mypikpak.com/en-US/help-center/beginner_tutorial/save_content/margnet_link)
-- [Video playback](https://mypikpak.com/en-US/help-center/play_and_download/playback)
-- [Adding links on iPhone and iPad](https://mypikpak.com/en-US/help-center/play_and_download/export_the_download_link/using_ios_app)
-- [Downloading folders on the web](https://mypikpak.com/en-US/help-center/play_and_download/failure/web)
-
-
-## Invitation codes and Referral Pro
-
-
-초대코드 수동 입력은 신규 등록 후 12시간 이내이며 유료 교환코드와 다릅니다. 초대 관계 연결만으로 무료 Premium이 보장되지는 않으므로 계정의 실제 혜택을 확인하세요.
-
-Manual invitation-code entry is for new accounts within 12 hours of registration, and differs from paid redemption. A linked referral does not guarantee free Premium; check your account. Referral Pro is the cash-reward program for people who recommend PikPak.
-
-
-- [PikPak invitation code and free Premium](https://appguideplus.com/en/pikpak-free-premium/?utm_source=github)
-- [PikPak Referral Pro: rewards and withdrawals](https://appguideplus.com/en/pikpak-referral-pro/?utm_source=github)
-
-
-## About
-
-
-Maintained by [AppGuide+](https://appguideplus.com/en/?utm_source=github), an independent guide site. It is not official PikPak customer support. Menu names and availability can change with the app version or account.
-
-
-[AppGuide+ 전체 앱 목차](https://github.com/appguideplus/app-guides/blob/main/README.md) · [카카오톡 채널](https://pf.kakao.com/_bxkarX)
-
-## AI onboarding skill
-
-[Read and install the PikPak onboarding skill](skills/pikpak-onboarding/README.md) — existing-account login, voluntary referral choice, verification and a first save/download. Available with [six-language setup guidance](https://appguideplus.com/ko/pikpak/cli-ai/?utm_source=github#onboarding).
-
+AppGuide+의 독립적인 이용 안내입니다. PikPak 공식 고객지원이 아닙니다.<br>
+Independent guides by AppGuide+. Not official PikPak customer support.

@@ -1,30 +1,44 @@
-# 픽팍(PikPak) 사용법 — 저장·다운로드와 윈도우 드라이브 연결
+<p align="center"><img src="assets/pikpak-guide-cover.svg" alt="PikPak guides by AppGuide+" width="960"></p>
 
-픽팍 초대코드: **79099748** · [입력 방법과 무료 프리미엄 혜택 확인](https://appguideplus.com/ko/pikpak-free-premium/?utm_source=github)
+[한국어](README.ko.md) · [English](README.en.md) · [日本語](README.ja.md)<br>
+[简体中文](README.zh-hans.md) · [繁體中文（台灣）](README.zh-hant.md) · [繁體中文（香港）](README.zh-hk.md)
 
-제휴 안내: 이 코드를 통한 추천 실적에 따라 운영자가 수수료를 받습니다.
+# 픽팍, 파일 하나부터 시작하세요.
 
-AppGuide+가 정리한 독립적인 이용 안내이며, PikPak 공식 고객지원 문서는 아닙니다.
+클라우드에 저장한 파일을 재생하고, 필요할 때 휴대폰이나 PC로 내려받으세요.
 
-[한국어](README.ko.md) · [English](README.en.md) · [日本語](README.ja.md) · [简体中文](README.zh-hans.md) · [繁體中文（台灣）](README.zh-hant.md) · [繁體中文（香港）](README.zh-hk.md)
+## 처음 사용하나요?
 
-이미 PikPak에 있는 파일은 [기기로 다운로드](https://appguideplus.com/ko/pikpak-guide/?utm_source=github#download)부터 시작하세요. 내려받은 파일을 못 찾겠다면 [기기별 저장 위치](https://appguideplus.com/ko/pikpak-guide/?utm_source=github#download-location)를 확인하세요. 내보낸 파일은 파일명·크기와 열기 결과를 확인하고, 오프라인으로 쓸 때는 인터넷 연결을 끈 상태에서도 열어보세요. 앱 안의 오프라인 저장과 사진·파일 앱으로 내보내기는 다를 수 있습니다.
+기능과 무료·유료 계정의 차이부터 확인하세요.
 
-## 처음이라면 / 기존 계정이 있다면
+**[픽팍 알아보기 →](https://appguideplus.com/ko/pikpak/?utm_source=github#fit)**
 
-- 처음이라면: [맞는 용도인지 확인](https://appguideplus.com/ko/pikpak/?utm_source=github#fit) → [신규 계정의 초대 조건](https://appguideplus.com/ko/pikpak-free-premium/?utm_source=github) 순서로 보세요.
-- 기존 계정이 있다면: 같은 계정으로 로그인하고 [파일 하나 저장·재생·다운로드](https://appguideplus.com/ko/pikpak-guide/?utm_source=github#save)부터 시험하세요.
+## 이미 계정이 있나요?
+
+저장·다운로드·파일 위치 중 필요한 안내를 고르세요.
+
+**[사용법 보기 →](https://appguideplus.com/ko/pikpak-guide/?utm_source=github#quick-answer)**
+
+## 초대코드 · 79099748
+
+[입력 방법과 혜택 확인 →](https://appguideplus.com/ko/pikpak-free-premium/?utm_source=github)
+
+신규 등록 후 12시간 이내에 수동 입력할 수 있습니다. 유료 교환코드와 다르며, 무료 혜택과 기간은 계정 화면에서 확인하세요.
+
+제휴 안내: 이 코드의 추천 실적에 따라 운영자가 수수료를 받습니다.
+
+---
 
 ## 필요한 안내 바로 찾기
 
-[로그인·인증 메일](https://appguideplus.com/ko/pikpak/login/?utm_source=github) · [Windows 드라이브 연결](https://appguideplus.com/ko/pikpak/windows-drive/?utm_source=github) · [만료 후 파일 보관](https://appguideplus.com/ko/pikpak/expiry/?utm_source=github) · [요금·자동 갱신](https://appguideplus.com/ko/pikpak/premium-purchase/?utm_source=github) · [약관·개인정보](https://appguideplus.com/ko/pikpak/terms-and-privacy/?utm_source=github)
+- [기기로 다운로드](https://appguideplus.com/ko/pikpak-guide/?utm_source=github#download)
+- [저장 위치 찾기](https://appguideplus.com/ko/pikpak-guide/?utm_source=github#download-location)
+- [Windows 드라이브 연결](https://appguideplus.com/ko/pikpak/windows-drive/?utm_source=github)
+- [요금·자동 갱신](https://appguideplus.com/ko/pikpak/premium-purchase/?utm_source=github)
+- [보관·개인정보](https://appguideplus.com/ko/pikpak/terms-and-privacy/?utm_source=github)
 
-**CLI·AI 연결:** 공식 CLI 설치·로그인, MCP와 스킬의 차이, 연결 권한 해제를 [CLI·AI 연결 안내](https://appguideplus.com/ko/pikpak/cli-ai/?utm_source=github)에서 확인하세요.
-
-- **추천코드로 가입:** `pikpak auth register --affiliate 79099748`
-- **추천 옵션 없이 가입:** `pikpak auth register`
-
-먼저 공식 CLI를 설치하고 아래 안내의 72시간 인증 조건을 확인하세요. `--affiliate`는 `PIKPAK_AFFILIATE` 환경변수보다 우선합니다. 옵션을 생략해도 환경변수의 추천인이 적용될 수 있으므로, 추천 없이 가입하려면 공식 가입 화면에서 추천인을 확인·제거하세요. [가입 선택·추천 명령 전체 복사](https://appguideplus.com/ko/pikpak/cli-ai/?utm_source=github#signup)
+<details>
+<summary><strong>저장·재생·다운로드 상세 사용법 펼치기</strong></summary>
 
 | 하려는 작업 | 웹 메뉴 |
 | --- | --- |
@@ -186,3 +200,24 @@ SD 카드 조건 확인: 2026-09-30. 클라우드 저장 완료와 기기 다운
 
 - [온보딩 스킬: 가입 선택·인증·첫 파일 저장](https://appguideplus.com/ko/pikpak/cli-ai/?utm_source=github#onboarding) · [SKILL.md](skills/pikpak-onboarding/SKILL.md)
 
+</details>
+
+## CLI·AI 도구로 사용하기
+
+공식 CLI 설치, 가입 선택과 추천 명령 복사, 온보딩 스킬을 안내합니다.
+
+[CLI·가입 안내 →](https://appguideplus.com/ko/pikpak/cli-ai/?utm_source=github#signup) · [온보딩 스킬](skills/pikpak-onboarding/README.md)
+
+<details>
+<summary>CLI: register</summary>
+
+- **추천코드로 가입:** `pikpak auth register --affiliate 79099748`
+- **추천 옵션 없이 가입:** `pikpak auth register`
+
+먼저 공식 CLI를 설치하고 아래 안내의 72시간 인증 조건을 확인하세요. `--affiliate`는 `PIKPAK_AFFILIATE` 환경변수보다 우선합니다. 옵션을 생략해도 환경변수의 추천인이 적용될 수 있으므로, 추천 없이 가입하려면 공식 가입 화면에서 추천인을 확인·제거하세요. [가입 선택·추천 명령 전체 복사](https://appguideplus.com/ko/pikpak/cli-ai/?utm_source=github#signup)
+
+</details>
+
+---
+
+AppGuide+의 독립적인 안내입니다. PikPak 공식 고객지원이 아닙니다.

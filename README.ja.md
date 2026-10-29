@@ -17,7 +17,7 @@
 
 保存・ダウンロード・保存先から必要な案内を選べます。
 
-**[使い方を見る →](https://appguideplus.com/ja/pikpak-guide/?utm_source=github#quick-answer)**
+**[使い方を見る →](https://appguideplus.com/ja/pikpak-guide/?utm_source=github#first-file-walkthrough)**
 
 ## 招待コード · 79099748
 

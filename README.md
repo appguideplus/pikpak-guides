@@ -18,7 +18,7 @@ Practical guides for saving, playing and downloading your files.
 
 ### 이미 계정이 있다면 · Already have an account
 
-[저장·다운로드·파일 위치 찾기 →](https://appguideplus.com/ko/pikpak-guide/?utm_source=github#quick-answer) · [Save, download and find files →](https://appguideplus.com/en/pikpak-guide/?utm_source=github#quick-answer)
+[저장·다운로드·파일 위치 찾기 →](https://appguideplus.com/ko/pikpak-guide/?utm_source=github#first-file-walkthrough) · [Save, download and find files →](https://appguideplus.com/en/pikpak-guide/?utm_source=github#first-file-walkthrough)
 
 ### 초대코드 · Invitation code
 

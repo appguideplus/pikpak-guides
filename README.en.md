@@ -17,7 +17,7 @@ See what it does and how free and paid accounts differ.
 
 Choose saving, downloading or finding your files.
 
-**[Open the guide →](https://appguideplus.com/en/pikpak-guide/?utm_source=github#quick-answer)**
+**[Open the guide →](https://appguideplus.com/en/pikpak-guide/?utm_source=github#first-file-walkthrough)**
 
 ## Invitation code · 79099748
 

@@ -17,7 +17,7 @@
 
 저장·다운로드·파일 위치 중 필요한 안내를 고르세요.
 
-**[사용법 보기 →](https://appguideplus.com/ko/pikpak-guide/?utm_source=github#quick-answer)**
+**[사용법 보기 →](https://appguideplus.com/ko/pikpak-guide/?utm_source=github#first-file-walkthrough)**
 
 ## 초대코드 · 79099748
 

@@ -17,7 +17,7 @@
 
 按需要選擇儲存、下載或查找檔案位置。
 
-**[查看使用指南 →](https://appguideplus.com/zh-hk/pikpak-guide/?utm_source=github#quick-answer)**
+**[查看使用指南 →](https://appguideplus.com/zh-hk/pikpak-guide/?utm_source=github#first-file-walkthrough)**
 
 ## 邀請碼 · 79099748
 

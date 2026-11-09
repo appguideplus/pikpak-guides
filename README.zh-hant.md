@@ -1,7 +1,7 @@
 <p align="center"><img src="assets/pikpak-guide-cover.svg" alt="PikPak guides by AppGuide+" width="960"></p>
 
 [한국어](README.ko.md) · [English](README.en.md) · [日本語](README.ja.md)<br>
-[简体中文](README.zh-hans.md) · [繁體中文（台灣）](README.zh-hant.md) · [繁體中文（香港）](README.zh-hk.md)
+[简体中文](README.zh-hant.md) · [繁體中文（台灣）](README.zh-hant.md) · [繁體中文（香港）](README.zh-hk.md)
 
 # 從一個檔案開始用 PikPak。
 
@@ -33,9 +33,9 @@
 
 - [下載到手機或電腦](https://appguideplus.com/zh-hant/pikpak-guide/?utm_source=github#download)
 - [查找下載位置](https://appguideplus.com/zh-hant/pikpak-guide/?utm_source=github#download-location)
-- [連接 Windows 磁碟機](https://appguideplus.com/zh-hant/pikpak/windows-drive/?utm_source=github)
-- [價格與自動續訂](https://appguideplus.com/zh-hant/pikpak/premium-purchase/?utm_source=github)
-- [檔案保留與隱私](https://appguideplus.com/zh-hant/pikpak/terms-and-privacy/?utm_source=github)
+- [連接 Windows 磁碟機 · 韓文](https://appguideplus.com/ko/pikpak/windows-drive/?utm_source=github)
+- [價格與自動續訂 · 韓文](https://appguideplus.com/ko/pikpak/premium-purchase/?utm_source=github)
+- [檔案保留與隱私 · 韓文](https://appguideplus.com/ko/pikpak/terms-and-privacy/?utm_source=github)
 
 <details>
 <summary><strong>展開儲存、播放與下載的詳細步驟</strong></summary>

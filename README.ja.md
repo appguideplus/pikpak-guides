@@ -33,9 +33,9 @@
 
 - [端末にダウンロード](https://appguideplus.com/ja/pikpak-guide/?utm_source=github#download)
 - [ダウンロード先を探す](https://appguideplus.com/ja/pikpak-guide/?utm_source=github#download-location)
-- [Windowsのドライブ接続](https://appguideplus.com/ja/pikpak/windows-drive/?utm_source=github)
-- [料金・自動更新](https://appguideplus.com/ja/pikpak/premium-purchase/?utm_source=github)
-- [ファイル保管・個人情報](https://appguideplus.com/ja/pikpak/terms-and-privacy/?utm_source=github)
+- [Windowsのドライブ接続 · 韓国語](https://appguideplus.com/ko/pikpak/windows-drive/?utm_source=github)
+- [料金・自動更新 · 韓国語](https://appguideplus.com/ko/pikpak/premium-purchase/?utm_source=github)
+- [ファイル保管・個人情報 · 韓国語](https://appguideplus.com/ko/pikpak/terms-and-privacy/?utm_source=github)
 
 <details>
 <summary><strong>保存・再生・ダウンロードの詳しい手順を開く</strong></summary>

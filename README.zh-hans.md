@@ -33,9 +33,9 @@
 
 - [下载到设备](https://appguideplus.com/zh-hans/pikpak-guide/?utm_source=github#download)
 - [查找下载位置](https://appguideplus.com/zh-hans/pikpak-guide/?utm_source=github#download-location)
-- [连接 Windows 驱动器](https://appguideplus.com/zh-hans/pikpak/windows-drive/?utm_source=github)
-- [价格与自动续费](https://appguideplus.com/zh-hans/pikpak/premium-purchase/?utm_source=github)
-- [文件保留与隐私](https://appguideplus.com/zh-hans/pikpak/terms-and-privacy/?utm_source=github)
+- [连接 Windows 驱动器 · 韩语](https://appguideplus.com/ko/pikpak/windows-drive/?utm_source=github)
+- [价格与自动续费 · 韩语](https://appguideplus.com/ko/pikpak/premium-purchase/?utm_source=github)
+- [文件保留与隐私 · 韩语](https://appguideplus.com/ko/pikpak/terms-and-privacy/?utm_source=github)
 
 <details>
 <summary><strong>展开保存、播放和下载的详细步骤</strong></summary>

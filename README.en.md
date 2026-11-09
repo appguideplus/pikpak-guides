@@ -33,9 +33,9 @@ Referral disclosure: the operator earns commissions on qualifying referrals thro
 
 - [Download to your device](https://appguideplus.com/en/pikpak-guide/?utm_source=github#download)
 - [Find downloaded files](https://appguideplus.com/en/pikpak-guide/?utm_source=github#download-location)
-- [Connect a Windows drive](https://appguideplus.com/en/pikpak/windows-drive/?utm_source=github)
-- [Plans and renewal](https://appguideplus.com/en/pikpak/premium-purchase/?utm_source=github)
-- [Storage and privacy](https://appguideplus.com/en/pikpak/terms-and-privacy/?utm_source=github)
+- [Connect a Windows drive · Korean](https://appguideplus.com/ko/pikpak/windows-drive/?utm_source=github)
+- [Plans and renewal · Korean](https://appguideplus.com/ko/pikpak/premium-purchase/?utm_source=github)
+- [Storage and privacy · Korean](https://appguideplus.com/ko/pikpak/terms-and-privacy/?utm_source=github)
 
 <details>
 <summary><strong>Expand the full save, play and download guide</strong></summary>

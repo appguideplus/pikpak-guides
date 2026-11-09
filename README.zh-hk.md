@@ -1,7 +1,7 @@
 <p align="center"><img src="assets/pikpak-guide-cover.svg" alt="PikPak guides by AppGuide+" width="960"></p>
 
 [한국어](README.ko.md) · [English](README.en.md) · [日本語](README.ja.md)<br>
-[简体中文](README.zh-hk.md) · [繁體中文（台灣）](README.zh-hant.md) · [繁體中文（香港）](README.zh-hk.md)
+[简体中文](README.zh-hans.md) · [繁體中文（台灣）](README.zh-hant.md) · [繁體中文（香港）](README.zh-hk.md)
 
 # 由一個檔案開始用 PikPak。
 

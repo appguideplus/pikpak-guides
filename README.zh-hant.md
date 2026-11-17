@@ -9,7 +9,7 @@
 
 ## 第一次使用？
 
-先了解主要功能，以及免費和付費帳號的差異。
+先了解主要功能，再[比較免費帳號與 Premium](https://appguideplus.com/zh-hant/pikpak/?utm_source=github#free-or-premium)。
 
 **[認識 PikPak →](https://appguideplus.com/zh-hant/pikpak/?utm_source=github#fit)**
 

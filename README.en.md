@@ -9,7 +9,7 @@ Save a file to the cloud, play it, and download a copy to your phone or computer
 
 ## New to PikPak?
 
-See what it does and how free and paid accounts differ.
+Explore the features and [compare free access with Premium](https://appguideplus.com/en/pikpak/?utm_source=github#free-or-premium).
 
 **[Explore PikPak →](https://appguideplus.com/en/pikpak/?utm_source=github#fit)**
 

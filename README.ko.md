@@ -9,7 +9,7 @@
 
 ## 처음 사용하나요?
 
-기능과 무료·유료 계정의 차이부터 확인하세요.
+기능을 살펴보고 [무료 계정과 Premium의 차이](https://appguideplus.com/ko/pikpak/?utm_source=github#free-or-premium)를 확인하세요.
 
 **[픽팍 알아보기 →](https://appguideplus.com/ko/pikpak/?utm_source=github#fit)**
 

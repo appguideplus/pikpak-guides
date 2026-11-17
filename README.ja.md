@@ -9,7 +9,7 @@
 
 ## 初めて使う方
 
-主な機能と無料・有料アカウントの違いを確認できます。
+主な機能と[無料プラン・Premiumの違い](https://appguideplus.com/ja/pikpak/?utm_source=github#free-or-premium)を確認できます。
 
 **[PikPakについて見る →](https://appguideplus.com/ja/pikpak/?utm_source=github#fit)**
 
